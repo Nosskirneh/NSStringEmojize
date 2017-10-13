@@ -18,17 +18,22 @@
     @":abcd:"                              : @"\U0001F521", \
     @":accept:"                            : @"\U0001F251", \
     @":ad:"                                : @"\U0001F1E6\U0001F1E9", \
+    @":admission_tickets:"                 : @"\U0001F39F", \
     @":ae:"                                : @"\U0001F1E6\U0001F1EA", \
     @":aerial_tramway:"                    : @"\U0001F6A1", \
     @":af:"                                : @"\U0001F1E6\U0001F1EB", \
     @":ag:"                                : @"\U0001F1E6\U0001F1EC", \
     @":ai:"                                : @"\U0001F1E6\U0001F1EE", \
     @":airplane:"                          : @"\U00002708", \
+    @":airplane_arriving:"                 : @"\U0001F6EC", \
+    @":airplane_departure:"                : @"\U0001F6EB", \
     @":al:"                                : @"\U0001F1E6\U0001F1F1", \
     @":alarm_clock:"                       : @"\U000023F0", \
+    @":alembic:"                           : @"\U00002697", \
     @":alien:"                             : @"\U0001F47D", \
     @":am:"                                : @"\U0001F1E6\U0001F1F2", \
     @":ambulance:"                         : @"\U0001F691", \
+    @":amphora:"                           : @"\U0001F3FA", \
     @":anchor:"                            : @"\U00002693", \
     @":angel:"                             : @"\U0001F47C", \
     @":anger:"                             : @"\U0001F4A2", \
@@ -63,12 +68,19 @@
     @":arrows_counterclockwise:"           : @"\U0001F504", \
     @":art:"                               : @"\U0001F3A8", \
     @":articulated_lorry:"                 : @"\U0001F69B", \
+    @":artist:"                            : @"\U0001F468\U0000200D\U0001F3A8", \
+    @":artist_woman:"                      : @"\U0001F469\U0000200D\U0001F3A8", \
     @":as:"                                : @"\U0001F1E6\U0001F1F8", \
+    @":asterix:"                           : @"*\U0000FE0F\U000020E3", \
     @":astonished:"                        : @"\U0001F632", \
+    @":astronaut:"                         : @"\U0001F468\U0000200D\U0001F680", \
+    @":astronaut_woman:"                   : @"\U0001F469\U0000200D\U0001F680", \
     @":at:"                                : @"\U0001F1E6\U0001F1F9", \
     @":athletic_shoe:"                     : @"\U0001F45F", \
     @":atm:"                               : @"\U0001F3E7", \
+    @":atom_symbol:"                       : @"\U0000269B", \
     @":au:"                                : @"\U0001F1E6\U0001F1FA", \
+    @":avocado:"                           : @"\U0001F951", \
     @":aw:"                                : @"\U0001F1E6\U0001F1FC", \
     @":ax:"                                : @"\U0001F1E6\U0001F1FD", \
     @":az:"                                : @"\U0001F1E6\U0001F1FF", \
@@ -79,8 +91,13 @@
     @":baby_chick:"                        : @"\U0001F424", \
     @":baby_symbol:"                       : @"\U0001F6BC", \
     @":back:"                              : @"\U0001F519", \
+    @":backhand:"                          : @"\U0001F91A", \
+    @":bacon:"                             : @"\U0001F953", \
+    @":badminton:"                         : @"\U0001F3F8", \
     @":baggage_claim:"                     : @"\U0001F6C4", \
+    @":baguette:"                          : @"\U0001F956", \
     @":balloon:"                           : @"\U0001F388", \
+    @":ballot_box_with_ballot:"            : @"\U0001F5F3", \
     @":ballot_box_with_check:"             : @"\U00002611", \
     @":bamboo:"                            : @"\U0001F38D", \
     @":banana:"                            : @"\U0001F34C", \
@@ -90,32 +107,39 @@
     @":barber:"                            : @"\U0001F488", \
     @":baseball:"                          : @"\U000026BE", \
     @":basketball:"                        : @"\U0001F3C0", \
+    @":bat:"                               : @"\U0001F987", \
     @":bath:"                              : @"\U0001F6C0", \
     @":bathtub:"                           : @"\U0001F6C1", \
     @":battery:"                           : @"\U0001F50B", \
     @":bb:"                                : @"\U0001F1E7\U0001F1E7", \
     @":bd:"                                : @"\U0001F1E7\U0001F1E9", \
     @":be:"                                : @"\U0001F1E7\U0001F1EA", \
+    @":beach_with_umbrella:"               : @"\U0001F3D6", \
     @":bear:"                              : @"\U0001F43B", \
+    @":bed:"                               : @"\U0001F6CF", \
     @":bee:"                               : @"\U0001F41D", \
     @":beer:"                              : @"\U0001F37A", \
     @":beers:"                             : @"\U0001F37B", \
     @":beetle:"                            : @"\U0001F41E", \
     @":beginner:"                          : @"\U0001F530", \
     @":bell:"                              : @"\U0001F514", \
+    @":bellhop_bell:"                      : @"\U0001F6CE", \
     @":bento:"                             : @"\U0001F371", \
     @":bf:"                                : @"\U0001F1E7\U0001F1EB", \
     @":bg:"                                : @"\U0001F1E7\U0001F1EC", \
     @":bh:"                                : @"\U0001F1E7\U0001F1ED", \
     @":bi:"                                : @"\U0001F1E7\U0001F1EE", \
     @":bicyclist:"                         : @"\U0001F6B4", \
+    @":bicyclist_woman:"                   : @"\U0001F6B4\U0000200D\U00002640", \
     @":bike:"                              : @"\U0001F6B2", \
     @":bikini:"                            : @"\U0001F459", \
+    @":biohazard_sign:"                    : @"\U00002623", \
     @":bird:"                              : @"\U0001F426", \
     @":birthday:"                          : @"\U0001F382", \
     @":bj:"                                : @"\U0001F1E7\U0001F1EF", \
     @":bl:"                                : @"\U0001F1E7\U0001F1F1", \
     @":black_circle:"                      : @"\U000026AB", \
+    @":black_heart:"                       : @"\U0001F5A4", \
     @":black_joker:"                       : @"\U0001F0CF", \
     @":black_large_square:"                : @"\U00002B1B", \
     @":black_medium_small_square:"         : @"\U000025FE", \
@@ -143,7 +167,10 @@
     @":boot:"                              : @"\U0001F462", \
     @":bouquet:"                           : @"\U0001F490", \
     @":bow:"                               : @"\U0001F647", \
+    @":bow:"                               : @"\U0001F647", \
+    @":bow_and_arrow:"                     : @"\U0001F3F9", \
     @":bowling:"                           : @"\U0001F3B3", \
+    @":boxing_glove:"                      : @"\U0001F94A", \
     @":boy:"                               : @"\U0001F466", \
     @":bq:"                                : @"\U0001F1E7\U0001F1F6", \
     @":br:"                                : @"\U0001F1E7\U0001F1F7", \
@@ -155,13 +182,16 @@
     @":bs:"                                : @"\U0001F1E7\U0001F1F8", \
     @":bt:"                                : @"\U0001F1E7\U0001F1F9", \
     @":bug:"                               : @"\U0001F41B", \
+    @":building_construction:"             : @"\U0001F3D7", \
     @":bulb:"                              : @"\U0001F4A1", \
     @":bullettrain_front:"                 : @"\U0001F685", \
     @":bullettrain_side:"                  : @"\U0001F684", \
+    @":burrito:"                           : @"\U0001F32F", \
     @":bus:"                               : @"\U0001F68C", \
     @":busstop:"                           : @"\U0001F68F", \
     @":bust_in_silhouette:"                : @"\U0001F464", \
     @":busts_in_silhouette:"               : @"\U0001F465", \
+    @":butterfly:"                         : @"\U0001F98B", \
     @":bv:"                                : @"\U0001F1E7\U0001F1FB", \
     @":bw:"                                : @"\U0001F1E7\U0001F1FC", \
     @":by:"                                : @"\U0001F1E7\U0001F1FE", \
@@ -170,33 +200,46 @@
     @":cactus:"                            : @"\U0001F335", \
     @":cake:"                              : @"\U0001F370", \
     @":calendar:"                          : @"\U0001F4C6", \
+    @":call_me_hand:"                      : @"\U0001F919", \
     @":calling:"                           : @"\U0001F4F2", \
     @":camel:"                             : @"\U0001F42B", \
     @":camera:"                            : @"\U0001F4F7", \
+    @":camera_with_flash:"                 : @"\U0001F4F8", \
+    @":camping:"                           : @"\U0001F3D5", \
     @":cancer:"                            : @"\U0000264B", \
+    @":candle:"                            : @"\U0001F56F", \
     @":candy:"                             : @"\U0001F36C", \
+    @":canoe:"                             : @"\U0001F6F6", \
     @":capital_abcd:"                      : @"\U0001F520", \
     @":capricorn:"                         : @"\U00002651", \
     @":car:"                               : @"\U0001F697", \
+    @":card_file_box:"                     : @"\U0001F5C3", \
     @":card_index:"                        : @"\U0001F4C7", \
+    @":card_index_dividers:"               : @"\U0001F5C2", \
     @":carousel_horse:"                    : @"\U0001F3A0", \
-    @":cat:"                               : @"\U0001F431", \
+    @":carrot:"                            : @"\U0001F955", \
     @":cat2:"                              : @"\U0001F408", \
+    @":cat:"                               : @"\U0001F431", \
     @":cc:"                                : @"\U0001F1E8\U0001F1E8", \
     @":cd:"                                : @"\U0001F1E8\U0001F1E9", \
     @":cd:"                                : @"\U0001F4BF", \
     @":cf:"                                : @"\U0001F1E8\U0001F1EB", \
     @":cg:"                                : @"\U0001F1E8\U0001F1EC", \
     @":ch:"                                : @"\U0001F1E8\U0001F1ED", \
+    @":chains:"                            : @"\U000026D3", \
+    @":champagne:"                         : @"\U0001F37E", \
     @":chart:"                             : @"\U0001F4B9", \
     @":chart_with_downwards_trend:"        : @"\U0001F4C9", \
     @":chart_with_upwards_trend:"          : @"\U0001F4C8", \
     @":checkered_flag:"                    : @"\U0001F3C1", \
+    @":cheers:"                            : @"\U0001F942", \
+    @":cheese:"                            : @"\U0001F9C0", \
     @":cherries:"                          : @"\U0001F352", \
     @":cherry_blossom:"                    : @"\U0001F338", \
     @":chestnut:"                          : @"\U0001F330", \
     @":chicken:"                           : @"\U0001F414", \
     @":children_crossing:"                 : @"\U0001F6B8", \
+    @":chipmunk:"                          : @"\U0001F43F", \
     @":chocolate_bar:"                     : @"\U0001F36B", \
     @":christmas_tree:"                    : @"\U0001F384", \
     @":church:"                            : @"\U000026EA", \
@@ -205,48 +248,54 @@
     @":circus_tent:"                       : @"\U0001F3AA", \
     @":city_sunrise:"                      : @"\U0001F307", \
     @":city_sunset:"                       : @"\U0001F306", \
+    @":cityscape:"                         : @"\U0001F3D9", \
     @":ck:"                                : @"\U0001F1E8\U0001F1F0", \
     @":cl:"                                : @"\U0001F191", \
     @":cl:"                                : @"\U0001F1E8\U0001F1F1", \
     @":clap:"                              : @"\U0001F44F", \
     @":clapper:"                           : @"\U0001F3AC", \
+    @":classical_building:"                : @"\U0001F3DB", \
     @":clipboard:"                         : @"\U0001F4CB", \
-    @":clock1:"                            : @"\U0001F550", \
-    @":clock10:"                           : @"\U0001F559", \
     @":clock1030:"                         : @"\U0001F565", \
-    @":clock11:"                           : @"\U0001F55A", \
+    @":clock10:"                           : @"\U0001F559", \
     @":clock1130:"                         : @"\U0001F566", \
-    @":clock12:"                           : @"\U0001F55B", \
+    @":clock11:"                           : @"\U0001F55A", \
     @":clock1230:"                         : @"\U0001F567", \
+    @":clock12:"                           : @"\U0001F55B", \
     @":clock130:"                          : @"\U0001F55C", \
-    @":clock2:"                            : @"\U0001F551", \
+    @":clock1:"                            : @"\U0001F550", \
     @":clock230:"                          : @"\U0001F55D", \
-    @":clock3:"                            : @"\U0001F552", \
+    @":clock2:"                            : @"\U0001F551", \
     @":clock330:"                          : @"\U0001F55E", \
-    @":clock4:"                            : @"\U0001F553", \
+    @":clock3:"                            : @"\U0001F552", \
     @":clock430:"                          : @"\U0001F55F", \
-    @":clock5:"                            : @"\U0001F554", \
+    @":clock4:"                            : @"\U0001F553", \
     @":clock530:"                          : @"\U0001F560", \
-    @":clock6:"                            : @"\U0001F555", \
+    @":clock5:"                            : @"\U0001F554", \
     @":clock630:"                          : @"\U0001F561", \
-    @":clock7:"                            : @"\U0001F556", \
+    @":clock6:"                            : @"\U0001F555", \
     @":clock730:"                          : @"\U0001F562", \
-    @":clock8:"                            : @"\U0001F557", \
+    @":clock7:"                            : @"\U0001F556", \
     @":clock830:"                          : @"\U0001F563", \
-    @":clock9:"                            : @"\U0001F558", \
+    @":clock8:"                            : @"\U0001F557", \
     @":clock930:"                          : @"\U0001F564", \
+    @":clock9:"                            : @"\U0001F558", \
     @":closed_book:"                       : @"\U0001F4D5", \
     @":closed_lock_with_key:"              : @"\U0001F510", \
     @":closed_umbrella:"                   : @"\U0001F302", \
     @":cloud:"                             : @"\U00002601", \
+    @":clown_face:"                        : @"\U0001F921", \
     @":clubs:"                             : @"\U00002663", \
     @":cm:"                                : @"\U0001F1E8\U0001F1F2", \
     @":cn:"                                : @"\U0001F1E8\U0001F1F3", \
     @":co:"                                : @"\U0001F1E8\U0001F1F4", \
     @":cocktail:"                          : @"\U0001F378", \
     @":coffee:"                            : @"\U00002615", \
+    @":coffin:"                            : @"\U000026B0", \
     @":cold_sweat:"                        : @"\U0001F630", \
     @":collision:"                         : @"\U0001F4A5", \
+    @":comet:"                             : @"\U00002604", \
+    @":compression:"                       : @"\U0001F5DC", \
     @":computer:"                          : @"\U0001F4BB", \
     @":confetti_ball:"                     : @"\U0001F38A", \
     @":confounded:"                        : @"\U0001F616", \
@@ -254,27 +303,38 @@
     @":congratulations:"                   : @"\U00003297", \
     @":construction:"                      : @"\U0001F6A7", \
     @":construction_worker:"               : @"\U0001F477", \
+    @":construction_worker_woman:"         : @"\U0001F477\U0000200D\U00002640", \
+    @":control_knobs:"                     : @"\U0001F39B", \
     @":convenience_store:"                 : @"\U0001F3EA", \
+    @":cook:"                              : @"\U0001F468\U0000200D\U0001F373", \
+    @":cook_woman:"                        : @"\U0001F469\U0000200D\U0001F373", \
     @":cookie:"                            : @"\U0001F36A", \
     @":cool:"                              : @"\U0001F192", \
     @":cop:"                               : @"\U0001F46E", \
     @":copyright:"                         : @"\U000000A9", \
     @":corn:"                              : @"\U0001F33D", \
+    @":couch_and_lamp:"                    : @"\U0001F6CB", \
     @":couple:"                            : @"\U0001F46B", \
     @":couple_with_heart:"                 : @"\U0001F491", \
     @":couplekiss:"                        : @"\U0001F48F", \
-    @":cow:"                               : @"\U0001F42E", \
     @":cow2:"                              : @"\U0001F404", \
+    @":cow:"                               : @"\U0001F42E", \
+    @":cowboy:"                            : @"\U0001F920", \
     @":cr:"                                : @"\U0001F1E8\U0001F1F7", \
+    @":crab:"                              : @"\U0001F980", \
     @":credit_card:"                       : @"\U0001F4B3", \
     @":crescent_moon:"                     : @"\U0001F319", \
+    @":cricket_bat_and_ball:"              : @"\U0001F3CF", \
     @":crocodile:"                         : @"\U0001F40A", \
+    @":croissant:"                         : @"\U0001F950", \
     @":crossed_flags:"                     : @"\U0001F38C", \
+    @":crossed_swords:"                    : @"\U00002694", \
     @":crown:"                             : @"\U0001F451", \
     @":cry:"                               : @"\U0001F622", \
     @":crying_cat_face:"                   : @"\U0001F63F", \
     @":crystal_ball:"                      : @"\U0001F52E", \
     @":cu:"                                : @"\U0001F1E8\U0001F1FA", \
+    @":cucumber:"                          : @"\U0001F952", \
     @":cupid:"                             : @"\U0001F498", \
     @":curly_loop:"                        : @"\U000027B0", \
     @":currency_exchange:"                 : @"\U0001F4B1", \
@@ -287,15 +347,25 @@
     @":cy:"                                : @"\U0001F1E8\U0001F1FE", \
     @":cyclone:"                           : @"\U0001F300", \
     @":cz:"                                : @"\U0001F1E8\U0001F1FF", \
+    @":dagger_knife:"                      : @"\U0001F5E1", \
+    @":dagger_knife:"                      : @"\U0001F5E1", \
     @":dancer:"                            : @"\U0001F483", \
     @":dancers:"                           : @"\U0001F46F", \
+    @":dancers_men:"                       : @"\U0001F46F\U0000200D\U00002642", \
+    @":dancing_men_wearing_bunny_ears:"    : @"\U0001F46F\U0000200D\U00002642", \
     @":dango:"                             : @"\U0001F361", \
+    @":dark_sunglasses:"                   : @"\U0001F576", \
     @":dart:"                              : @"\U0001F3AF", \
     @":dash:"                              : @"\U0001F4A8", \
     @":date:"                              : @"\U0001F4C5", \
     @":de:"                                : @"\U0001F1E9\U0001F1EA", \
     @":deciduous_tree:"                    : @"\U0001F333", \
+    @":deer:"                              : @"\U0001F98C", \
     @":department_store:"                  : @"\U0001F3EC", \
+    @":derelict-house-building:"           : @"\U0001F3DA", \
+    @":desert:"                            : @"\U0001F3DC", \
+    @":desert_island:"                     : @"\U0001F3DD", \
+    @":desktop_computer:"                  : @"\U0001F5A5", \
     @":diamond_shape_with_a_dot_inside:"   : @"\U0001F4A0", \
     @":diamonds:"                          : @"\U00002666", \
     @":disappointed:"                      : @"\U0001F61E", \
@@ -307,21 +377,26 @@
     @":dm:"                                : @"\U0001F1E9\U0001F1F2", \
     @":do:"                                : @"\U0001F1E9\U0001F1F4", \
     @":do_not_litter:"                     : @"\U0001F6AF", \
-    @":dog:"                               : @"\U0001F436", \
     @":dog2:"                              : @"\U0001F415", \
+    @":dog:"                               : @"\U0001F436", \
     @":dollar:"                            : @"\U0001F4B5", \
     @":dolls:"                             : @"\U0001F38E", \
     @":dolphin:"                           : @"\U0001F42C", \
     @":door:"                              : @"\U0001F6AA", \
     @":doughnut:"                          : @"\U0001F369", \
+    @":dove_of_peace:"                     : @"\U0001F54A", \
     @":dragon:"                            : @"\U0001F409", \
     @":dragon_face:"                       : @"\U0001F432", \
     @":dress:"                             : @"\U0001F457", \
     @":dromedary_camel:"                   : @"\U0001F42A", \
+    @":drooling_face:"                     : @"\U0001F924", \
     @":droplet:"                           : @"\U0001F4A7", \
+    @":drum_with_drumsticks:"              : @"\U0001F941", \
+    @":duck:"                              : @"\U0001F986", \
     @":dvd:"                               : @"\U0001F4C0", \
     @":dz:"                                : @"\U0001F1E9\U0001F1FF", \
     @":e-mail:"                            : @"\U0001F4E7", \
+    @":eagle:"                             : @"\U0001F985", \
     @":ear:"                               : @"\U0001F442", \
     @":ear_of_rice:"                       : @"\U0001F33E", \
     @":earth_africa:"                      : @"\U0001F30D", \
@@ -330,9 +405,11 @@
     @":ec:"                                : @"\U0001F1EA\U0001F1E8", \
     @":ee:"                                : @"\U0001F1EA\U0001F1EA", \
     @":eg:"                                : @"\U0001F1EA\U0001F1EC", \
+    @":egg2:"                              : @"\U0001F95A", \
     @":egg:"                               : @"\U0001F373", \
     @":eggplant:"                          : @"\U0001F346", \
     @":eh:"                                : @"\U0001F1EA\U0001F1ED", \
+    @":eight:"                             : @"8\U0000FE0F\U000020E3", \
     @":eight_pointed_black_star:"          : @"\U00002734", \
     @":eight_spoked_asterisk:"             : @"\U00002733", \
     @":electric_plug:"                     : @"\U0001F50C", \
@@ -350,28 +427,51 @@
     @":evergreen_tree:"                    : @"\U0001F332", \
     @":exclamation:"                       : @"\U00002757", \
     @":expressionless:"                    : @"\U0001F611", \
+    @":eye:"                               : @"\U0001F441", \
+    @":eye_in_speech_bubble:"              : @"\U0001F441\U0000200D\U0001F5E8", \
     @":eyeglasses:"                        : @"\U0001F453", \
     @":eyes:"                              : @"\U0001F440", \
+    @":face_with_head_bandage:"            : @"\U0001F915", \
+    @":face_with_rolling_eyes:"            : @"\U0001F644", \
+    @":face_with_thermometer:"             : @"\U0001F912", \
+    @":facepalm:"                          : @"\U0001F926", \
+    @":facepalm_man:"                      : @"\U0001F926\U0000200D\U00002642", \
+    @":facepalm_woman:"                    : @"\U0001F926\U0000200D\U00002640", \
     @":facepunch:"                         : @"\U0001F44A", \
     @":factory:"                           : @"\U0001F3ED", \
+    @":factory_worker:"                    : @"\U0001F468\U0000200D\U0001F3ED", \
+    @":factory_worker_woman:"              : @"\U0001F469\U0000200D\U0001F3ED", \
     @":fallen_leaf:"                       : @"\U0001F342", \
     @":family:"                            : @"\U0001F46A", \
+    @":farmer:"                            : @"\U0001F468\U0000200D\U0001F33E", \
+    @":farmer_woman:"                      : @"\U0001F469\U0000200D\U0001F33E", \
     @":fast_forward:"                      : @"\U000023E9", \
     @":fax:"                               : @"\U0001F4E0", \
     @":fearful:"                           : @"\U0001F628", \
     @":feet:"                              : @"\U0001F43E", \
+    @":fencer:"                            : @"\U0001F93A", \
     @":ferris_wheel:"                      : @"\U0001F3A1", \
+    @":ferry:"                             : @"\U000026F4", \
     @":fi:"                                : @"\U0001F1EB\U0001F1EE", \
+    @":field_hockey_stick_and_ball:"       : @"\U0001F3D1", \
+    @":file_cabinet:"                      : @"\U0001F5C4", \
     @":file_folder:"                       : @"\U0001F4C1", \
+    @":film_frames:"                       : @"\U0001F39E", \
+    @":film_projector:"                    : @"\U0001F4FD", \
+    @":fingers_crossed:"                   : @"\U0001F91E", \
     @":fire:"                              : @"\U0001F525", \
     @":fire_engine:"                       : @"\U0001F692", \
+    @":firefighter:"                       : @"\U0001F468\U0000200D\U0001F692", \
+    @":firefighter_woman:"                 : @"\U0001F469\U0000200D\U0001F692", \
     @":fireworks:"                         : @"\U0001F386", \
+    @":first-place-medal:"                 : @"\U0001F947", \
     @":first_quarter_moon:"                : @"\U0001F313", \
     @":first_quarter_moon_with_face:"      : @"\U0001F31B", \
     @":fish:"                              : @"\U0001F41F", \
     @":fish_cake:"                         : @"\U0001F365", \
     @":fishing_pole_and_fish:"             : @"\U0001F3A3", \
     @":fist:"                              : @"\U0000270A", \
+    @":five:"                              : @"5\U0000FE0F\U000020E3", \
     @":fj:"                                : @"\U0001F1EB\U0001F1EF", \
     @":fk:"                                : @"\U0001F1EB\U0001F1F0", \
     @":flag-ad:"                           : @"\U0001F1E6\U0001F1E9", \
@@ -443,6 +543,7 @@
     @":flag-er:"                           : @"\U0001F1EA\U0001F1F7", \
     @":flag-es:"                           : @"\U0001F1EA\U0001F1F8", \
     @":flag-et:"                           : @"\U0001F1EA\U0001F1F9", \
+    @":flag-eu:"                           : @"\U0001F1EA\U0001F1FA", \
     @":flag-fi:"                           : @"\U0001F1EB\U0001F1EE", \
     @":flag-fj:"                           : @"\U0001F1EB\U0001F1EF", \
     @":flag-fk:"                           : @"\U0001F1EB\U0001F1F0", \
@@ -474,6 +575,7 @@
     @":flag-hr:"                           : @"\U0001F1ED\U0001F1F7", \
     @":flag-ht:"                           : @"\U0001F1ED\U0001F1F9", \
     @":flag-hu:"                           : @"\U0001F1ED\U0001F1FA", \
+    @":flag-ic:"                           : @"\U0001F1EE\U0001F1E8", \
     @":flag-id:"                           : @"\U0001F1EE\U0001F1E9", \
     @":flag-ie:"                           : @"\U0001F1EE\U0001F1EA", \
     @":flag-il:"                           : @"\U0001F1EE\U0001F1F1", \
@@ -497,6 +599,7 @@
     @":flag-kp:"                           : @"\U0001F1F0\U0001F1F5", \
     @":flag-kr:"                           : @"\U0001F1F0\U0001F1F7", \
     @":flag-kw:"                           : @"\U0001F1F0\U0001F1FC", \
+    @":flag-kx:"                           : @"\U0001F1FD\U0001F1F0", \
     @":flag-ky:"                           : @"\U0001F1F0\U0001F1FE", \
     @":flag-kz:"                           : @"\U0001F1F0\U0001F1FF", \
     @":flag-la:"                           : @"\U0001F1F1\U0001F1E6", \
@@ -623,270 +726,26 @@
     @":flag-za:"                           : @"\U0001F1FF\U0001F1E6", \
     @":flag-zm:"                           : @"\U0001F1FF\U0001F1F2", \
     @":flag-zw:"                           : @"\U0001F1FF\U0001F1FC", \
-    @":flag_ad:"                           : @"\U0001F1E6\U0001F1E9", \
-    @":flag_ae:"                           : @"\U0001F1E6\U0001F1EA", \
-    @":flag_af:"                           : @"\U0001F1E6\U0001F1EB", \
-    @":flag_ag:"                           : @"\U0001F1E6\U0001F1EC", \
-    @":flag_ai:"                           : @"\U0001F1E6\U0001F1EE", \
-    @":flag_al:"                           : @"\U0001F1E6\U0001F1F1", \
-    @":flag_am:"                           : @"\U0001F1E6\U0001F1F2", \
-    @":flag_ao:"                           : @"\U0001F1E6\U0001F1F4", \
-    @":flag_aq:"                           : @"\U0001F1E6\U0001F1F6", \
-    @":flag_ar:"                           : @"\U0001F1E6\U0001F1F7", \
-    @":flag_as:"                           : @"\U0001F1E6\U0001F1F8", \
-    @":flag_at:"                           : @"\U0001F1E6\U0001F1F9", \
-    @":flag_au:"                           : @"\U0001F1E6\U0001F1FA", \
-    @":flag_aw:"                           : @"\U0001F1E6\U0001F1FC", \
-    @":flag_ax:"                           : @"\U0001F1E6\U0001F1FD", \
-    @":flag_az:"                           : @"\U0001F1E6\U0001F1FF", \
-    @":flag_ba:"                           : @"\U0001F1E7\U0001F1E6", \
-    @":flag_bb:"                           : @"\U0001F1E7\U0001F1E7", \
-    @":flag_bd:"                           : @"\U0001F1E7\U0001F1E9", \
-    @":flag_be:"                           : @"\U0001F1E7\U0001F1EA", \
-    @":flag_bf:"                           : @"\U0001F1E7\U0001F1EB", \
-    @":flag_bg:"                           : @"\U0001F1E7\U0001F1EC", \
-    @":flag_bh:"                           : @"\U0001F1E7\U0001F1ED", \
-    @":flag_bi:"                           : @"\U0001F1E7\U0001F1EE", \
-    @":flag_bj:"                           : @"\U0001F1E7\U0001F1EF", \
-    @":flag_bl:"                           : @"\U0001F1E7\U0001F1F1", \
-    @":flag_bm:"                           : @"\U0001F1E7\U0001F1F2", \
-    @":flag_bn:"                           : @"\U0001F1E7\U0001F1F3", \
-    @":flag_bo:"                           : @"\U0001F1E7\U0001F1F4", \
-    @":flag_bq:"                           : @"\U0001F1E7\U0001F1F6", \
-    @":flag_br:"                           : @"\U0001F1E7\U0001F1F7", \
-    @":flag_bs:"                           : @"\U0001F1E7\U0001F1F8", \
-    @":flag_bt:"                           : @"\U0001F1E7\U0001F1F9", \
-    @":flag_bv:"                           : @"\U0001F1E7\U0001F1FB", \
-    @":flag_bw:"                           : @"\U0001F1E7\U0001F1FC", \
-    @":flag_by:"                           : @"\U0001F1E7\U0001F1FE", \
-    @":flag_bz:"                           : @"\U0001F1E7\U0001F1FF", \
-    @":flag_ca:"                           : @"\U0001F1E8\U0001F1E6", \
-    @":flag_cc:"                           : @"\U0001F1E8\U0001F1E8", \
-    @":flag_cd:"                           : @"\U0001F1E8\U0001F1E9", \
-    @":flag_cf:"                           : @"\U0001F1E8\U0001F1EB", \
-    @":flag_cg:"                           : @"\U0001F1E8\U0001F1EC", \
-    @":flag_ch:"                           : @"\U0001F1E8\U0001F1ED", \
-    @":flag_ci:"                           : @"\U0001F1E8\U0001F1EE", \
-    @":flag_ck:"                           : @"\U0001F1E8\U0001F1F0", \
-    @":flag_cl:"                           : @"\U0001F1E8\U0001F1F1", \
-    @":flag_cm:"                           : @"\U0001F1E8\U0001F1F2", \
-    @":flag_cn:"                           : @"\U0001F1E8\U0001F1F3", \
-    @":flag_co:"                           : @"\U0001F1E8\U0001F1F4", \
-    @":flag_cr:"                           : @"\U0001F1E8\U0001F1F7", \
-    @":flag_cu:"                           : @"\U0001F1E8\U0001F1FA", \
-    @":flag_cv:"                           : @"\U0001F1E8\U0001F1FB", \
-    @":flag_cw:"                           : @"\U0001F1E8\U0001F1FC", \
-    @":flag_cx:"                           : @"\U0001F1E8\U0001F1FD", \
-    @":flag_cy:"                           : @"\U0001F1E8\U0001F1FE", \
-    @":flag_cz:"                           : @"\U0001F1E8\U0001F1FF", \
-    @":flag_de:"                           : @"\U0001F1E9\U0001F1EA", \
-    @":flag_dj:"                           : @"\U0001F1E9\U0001F1EF", \
-    @":flag_dk:"                           : @"\U0001F1E9\U0001F1F0", \
-    @":flag_dm:"                           : @"\U0001F1E9\U0001F1F2", \
-    @":flag_do:"                           : @"\U0001F1E9\U0001F1F4", \
-    @":flag_dz:"                           : @"\U0001F1E9\U0001F1FF", \
-    @":flag_ec:"                           : @"\U0001F1EA\U0001F1E8", \
-    @":flag_ee:"                           : @"\U0001F1EA\U0001F1EA", \
-    @":flag_eg:"                           : @"\U0001F1EA\U0001F1EC", \
-    @":flag_eh:"                           : @"\U0001F1EA\U0001F1ED", \
-    @":flag_er:"                           : @"\U0001F1EA\U0001F1F7", \
-    @":flag_es:"                           : @"\U0001F1EA\U0001F1F8", \
-    @":flag_et:"                           : @"\U0001F1EA\U0001F1F9", \
-    @":flag_fi:"                           : @"\U0001F1EB\U0001F1EE", \
-    @":flag_fj:"                           : @"\U0001F1EB\U0001F1EF", \
-    @":flag_fk:"                           : @"\U0001F1EB\U0001F1F0", \
-    @":flag_fm:"                           : @"\U0001F1EB\U0001F1F2", \
-    @":flag_fo:"                           : @"\U0001F1EB\U0001F1F4", \
-    @":flag_fr:"                           : @"\U0001F1EB\U0001F1F7", \
-    @":flag_ga:"                           : @"\U0001F1EC\U0001F1E6", \
-    @":flag_gb:"                           : @"\U0001F1EC\U0001F1E7", \
-    @":flag_gd:"                           : @"\U0001F1EC\U0001F1E9", \
-    @":flag_ge:"                           : @"\U0001F1EC\U0001F1EA", \
-    @":flag_gf:"                           : @"\U0001F1EC\U0001F1EB", \
-    @":flag_gg:"                           : @"\U0001F1EC\U0001F1EC", \
-    @":flag_gh:"                           : @"\U0001F1EC\U0001F1ED", \
-    @":flag_gi:"                           : @"\U0001F1EC\U0001F1EE", \
-    @":flag_gl:"                           : @"\U0001F1EC\U0001F1F1", \
-    @":flag_gm:"                           : @"\U0001F1EC\U0001F1F2", \
-    @":flag_gn:"                           : @"\U0001F1EC\U0001F1F3", \
-    @":flag_gp:"                           : @"\U0001F1EC\U0001F1F5", \
-    @":flag_gq:"                           : @"\U0001F1EC\U0001F1F6", \
-    @":flag_gr:"                           : @"\U0001F1EC\U0001F1F7", \
-    @":flag_gs:"                           : @"\U0001F1EC\U0001F1F8", \
-    @":flag_gt:"                           : @"\U0001F1EC\U0001F1F9", \
-    @":flag_gu:"                           : @"\U0001F1EC\U0001F1FA", \
-    @":flag_gw:"                           : @"\U0001F1EC\U0001F1FC", \
-    @":flag_gy:"                           : @"\U0001F1EC\U0001F1FE", \
-    @":flag_hk:"                           : @"\U0001F1ED\U0001F1F0", \
-    @":flag_hm:"                           : @"\U0001F1ED\U0001F1F2", \
-    @":flag_hn:"                           : @"\U0001F1ED\U0001F1F3", \
-    @":flag_hr:"                           : @"\U0001F1ED\U0001F1F7", \
-    @":flag_ht:"                           : @"\U0001F1ED\U0001F1F9", \
-    @":flag_hu:"                           : @"\U0001F1ED\U0001F1FA", \
-    @":flag_id:"                           : @"\U0001F1EE\U0001F1E9", \
-    @":flag_ie:"                           : @"\U0001F1EE\U0001F1EA", \
-    @":flag_il:"                           : @"\U0001F1EE\U0001F1F1", \
-    @":flag_im:"                           : @"\U0001F1EE\U0001F1F2", \
-    @":flag_in:"                           : @"\U0001F1EE\U0001F1F3", \
-    @":flag_io:"                           : @"\U0001F1EE\U0001F1F4", \
-    @":flag_iq:"                           : @"\U0001F1EE\U0001F1F6", \
-    @":flag_ir:"                           : @"\U0001F1EE\U0001F1F7", \
-    @":flag_is:"                           : @"\U0001F1EE\U0001F1F8", \
-    @":flag_it:"                           : @"\U0001F1EE\U0001F1F9", \
-    @":flag_je:"                           : @"\U0001F1EF\U0001F1EA", \
-    @":flag_jm:"                           : @"\U0001F1EF\U0001F1F2", \
-    @":flag_jo:"                           : @"\U0001F1EF\U0001F1F4", \
-    @":flag_jp:"                           : @"\U0001F1EF\U0001F1F5", \
-    @":flag_ke:"                           : @"\U0001F1F0\U0001F1EA", \
-    @":flag_kg:"                           : @"\U0001F1F0\U0001F1EC", \
-    @":flag_kh:"                           : @"\U0001F1F0\U0001F1ED", \
-    @":flag_ki:"                           : @"\U0001F1F0\U0001F1EE", \
-    @":flag_km:"                           : @"\U0001F1F0\U0001F1F2", \
-    @":flag_kn:"                           : @"\U0001F1F0\U0001F1F3", \
-    @":flag_kp:"                           : @"\U0001F1F0\U0001F1F5", \
-    @":flag_kr:"                           : @"\U0001F1F0\U0001F1F7", \
-    @":flag_kw:"                           : @"\U0001F1F0\U0001F1FC", \
-    @":flag_ky:"                           : @"\U0001F1F0\U0001F1FE", \
-    @":flag_kz:"                           : @"\U0001F1F0\U0001F1FF", \
-    @":flag_la:"                           : @"\U0001F1F1\U0001F1E6", \
-    @":flag_lb:"                           : @"\U0001F1F1\U0001F1E7", \
-    @":flag_lc:"                           : @"\U0001F1F1\U0001F1E8", \
-    @":flag_li:"                           : @"\U0001F1F1\U0001F1EE", \
-    @":flag_lk:"                           : @"\U0001F1F1\U0001F1F0", \
-    @":flag_lr:"                           : @"\U0001F1F1\U0001F1F7", \
-    @":flag_ls:"                           : @"\U0001F1F1\U0001F1F8", \
-    @":flag_lt:"                           : @"\U0001F1F1\U0001F1F9", \
-    @":flag_lu:"                           : @"\U0001F1F1\U0001F1FA", \
-    @":flag_lv:"                           : @"\U0001F1F1\U0001F1FB", \
-    @":flag_ly:"                           : @"\U0001F1F1\U0001F1FE", \
-    @":flag_ma:"                           : @"\U0001F1F2\U0001F1E6", \
-    @":flag_mc:"                           : @"\U0001F1F2\U0001F1E8", \
-    @":flag_md:"                           : @"\U0001F1F2\U0001F1E9", \
-    @":flag_me:"                           : @"\U0001F1F2\U0001F1EA", \
-    @":flag_mf:"                           : @"\U0001F1F2\U0001F1EB", \
-    @":flag_mg:"                           : @"\U0001F1F2\U0001F1EC", \
-    @":flag_mh:"                           : @"\U0001F1F2\U0001F1ED", \
-    @":flag_mk:"                           : @"\U0001F1F2\U0001F1F0", \
-    @":flag_ml:"                           : @"\U0001F1F2\U0001F1F1", \
-    @":flag_mm:"                           : @"\U0001F1F2\U0001F1F2", \
-    @":flag_mn:"                           : @"\U0001F1F2\U0001F1F3", \
-    @":flag_mo:"                           : @"\U0001F1F2\U0001F1F4", \
-    @":flag_mp:"                           : @"\U0001F1F2\U0001F1F5", \
-    @":flag_mq:"                           : @"\U0001F1F2\U0001F1F6", \
-    @":flag_mr:"                           : @"\U0001F1F2\U0001F1F7", \
-    @":flag_ms:"                           : @"\U0001F1F2\U0001F1F8", \
-    @":flag_mt:"                           : @"\U0001F1F2\U0001F1F9", \
-    @":flag_mu:"                           : @"\U0001F1F2\U0001F1FA", \
-    @":flag_mv:"                           : @"\U0001F1F2\U0001F1FB", \
-    @":flag_mw:"                           : @"\U0001F1F2\U0001F1FC", \
-    @":flag_mx:"                           : @"\U0001F1F2\U0001F1FD", \
-    @":flag_my:"                           : @"\U0001F1F2\U0001F1FE", \
-    @":flag_mz:"                           : @"\U0001F1F2\U0001F1FF", \
-    @":flag_na:"                           : @"\U0001F1F3\U0001F1E6", \
-    @":flag_nc:"                           : @"\U0001F1F3\U0001F1E8", \
-    @":flag_ne:"                           : @"\U0001F1F3\U0001F1EA", \
-    @":flag_nf:"                           : @"\U0001F1F3\U0001F1EB", \
-    @":flag_ng:"                           : @"\U0001F1F3\U0001F1EC", \
-    @":flag_ni:"                           : @"\U0001F1F3\U0001F1EE", \
-    @":flag_nl:"                           : @"\U0001F1F3\U0001F1F1", \
-    @":flag_no:"                           : @"\U0001F1F3\U0001F1F4", \
-    @":flag_np:"                           : @"\U0001F1F3\U0001F1F5", \
-    @":flag_nr:"                           : @"\U0001F1F3\U0001F1F7", \
-    @":flag_nu:"                           : @"\U0001F1F3\U0001F1FA", \
-    @":flag_nz:"                           : @"\U0001F1F3\U0001F1FF", \
-    @":flag_om:"                           : @"\U0001F1F4\U0001F1F2", \
-    @":flag_pa:"                           : @"\U0001F1F5\U0001F1E6", \
-    @":flag_pe:"                           : @"\U0001F1F5\U0001F1EA", \
-    @":flag_pf:"                           : @"\U0001F1F5\U0001F1EB", \
-    @":flag_pg:"                           : @"\U0001F1F5\U0001F1EC", \
-    @":flag_ph:"                           : @"\U0001F1F5\U0001F1ED", \
-    @":flag_pk:"                           : @"\U0001F1F5\U0001F1F0", \
-    @":flag_pl:"                           : @"\U0001F1F5\U0001F1F1", \
-    @":flag_pm:"                           : @"\U0001F1F5\U0001F1F2", \
-    @":flag_pn:"                           : @"\U0001F1F5\U0001F1F3", \
-    @":flag_pr:"                           : @"\U0001F1F5\U0001F1F7", \
-    @":flag_ps:"                           : @"\U0001F1F5\U0001F1F8", \
-    @":flag_pt:"                           : @"\U0001F1F5\U0001F1F9", \
-    @":flag_pw:"                           : @"\U0001F1F5\U0001F1FC", \
-    @":flag_py:"                           : @"\U0001F1F5\U0001F1FE", \
-    @":flag_qa:"                           : @"\U0001F1F6\U0001F1E6", \
-    @":flag_re:"                           : @"\U0001F1F7\U0001F1EA", \
-    @":flag_ro:"                           : @"\U0001F1F7\U0001F1F4", \
-    @":flag_rs:"                           : @"\U0001F1F7\U0001F1F8", \
-    @":flag_ru:"                           : @"\U0001F1F7\U0001F1FA", \
-    @":flag_rw:"                           : @"\U0001F1F7\U0001F1FC", \
-    @":flag_sa:"                           : @"\U0001F1F8\U0001F1E6", \
-    @":flag_sb:"                           : @"\U0001F1F8\U0001F1E7", \
-    @":flag_sc:"                           : @"\U0001F1F8\U0001F1E8", \
-    @":flag_sd:"                           : @"\U0001F1F8\U0001F1E9", \
-    @":flag_se:"                           : @"\U0001F1F8\U0001F1EA", \
-    @":flag_sg:"                           : @"\U0001F1F8\U0001F1EC", \
-    @":flag_sh:"                           : @"\U0001F1F8\U0001F1ED", \
-    @":flag_si:"                           : @"\U0001F1F8\U0001F1EE", \
-    @":flag_sj:"                           : @"\U0001F1F8\U0001F1EF", \
-    @":flag_sk:"                           : @"\U0001F1F8\U0001F1F0", \
-    @":flag_sl:"                           : @"\U0001F1F8\U0001F1F1", \
-    @":flag_sm:"                           : @"\U0001F1F8\U0001F1F2", \
-    @":flag_sn:"                           : @"\U0001F1F8\U0001F1F3", \
-    @":flag_so:"                           : @"\U0001F1F8\U0001F1F4", \
-    @":flag_sr:"                           : @"\U0001F1F8\U0001F1F7", \
-    @":flag_ss:"                           : @"\U0001F1F8\U0001F1F8", \
-    @":flag_st:"                           : @"\U0001F1F8\U0001F1F9", \
-    @":flag_sv:"                           : @"\U0001F1F8\U0001F1FB", \
-    @":flag_sx:"                           : @"\U0001F1F8\U0001F1FD", \
-    @":flag_sy:"                           : @"\U0001F1F8\U0001F1FE", \
-    @":flag_sz:"                           : @"\U0001F1F8\U0001F1FF", \
-    @":flag_tc:"                           : @"\U0001F1F9\U0001F1E8", \
-    @":flag_td:"                           : @"\U0001F1F9\U0001F1E9", \
-    @":flag_tf:"                           : @"\U0001F1F9\U0001F1EB", \
-    @":flag_tg:"                           : @"\U0001F1F9\U0001F1EC", \
-    @":flag_th:"                           : @"\U0001F1F9\U0001F1ED", \
-    @":flag_tj:"                           : @"\U0001F1F9\U0001F1EF", \
-    @":flag_tk:"                           : @"\U0001F1F9\U0001F1F0", \
-    @":flag_tl:"                           : @"\U0001F1F9\U0001F1F1", \
-    @":flag_tm:"                           : @"\U0001F1F9\U0001F1F2", \
-    @":flag_tn:"                           : @"\U0001F1F9\U0001F1F3", \
-    @":flag_to:"                           : @"\U0001F1F9\U0001F1F4", \
-    @":flag_tr:"                           : @"\U0001F1F9\U0001F1F7", \
-    @":flag_tt:"                           : @"\U0001F1F9\U0001F1F9", \
-    @":flag_tv:"                           : @"\U0001F1F9\U0001F1FB", \
-    @":flag_tw:"                           : @"\U0001F1F9\U0001F1FC", \
-    @":flag_tz:"                           : @"\U0001F1F9\U0001F1FF", \
-    @":flag_ua:"                           : @"\U0001F1FA\U0001F1E6", \
-    @":flag_ug:"                           : @"\U0001F1FA\U0001F1EC", \
-    @":flag_um:"                           : @"\U0001F1FA\U0001F1F2", \
-    @":flag_us:"                           : @"\U0001F1FA\U0001F1F8", \
-    @":flag_uy:"                           : @"\U0001F1FA\U0001F1FE", \
-    @":flag_uz:"                           : @"\U0001F1FA\U0001F1FF", \
-    @":flag_va:"                           : @"\U0001F1FB\U0001F1E6", \
-    @":flag_vc:"                           : @"\U0001F1FB\U0001F1E8", \
-    @":flag_ve:"                           : @"\U0001F1FB\U0001F1EA", \
-    @":flag_vg:"                           : @"\U0001F1FB\U0001F1EC", \
-    @":flag_vi:"                           : @"\U0001F1FB\U0001F1EE", \
-    @":flag_vn:"                           : @"\U0001F1FB\U0001F1F3", \
-    @":flag_vu:"                           : @"\U0001F1FB\U0001F1FA", \
-    @":flag_wf:"                           : @"\U0001F1FC\U0001F1EB", \
-    @":flag_ws:"                           : @"\U0001F1FC\U0001F1F8", \
-    @":flag_ye:"                           : @"\U0001F1FE\U0001F1EA", \
-    @":flag_yt:"                           : @"\U0001F1FE\U0001F1F9", \
-    @":flag_za:"                           : @"\U0001F1FF\U0001F1E6", \
-    @":flag_zm:"                           : @"\U0001F1FF\U0001F1F2", \
-    @":flag_zw:"                           : @"\U0001F1FF\U0001F1FC", \
     @":flags:"                             : @"\U0001F38F", \
     @":flashlight:"                        : @"\U0001F526", \
+    @":fleur_de_lis:"                      : @"\U0000269C", \
     @":flipper:"                           : @"\U0001F42C", \
     @":floppy_disk:"                       : @"\U0001F4BE", \
     @":flower_playing_cards:"              : @"\U0001F3B4", \
     @":flushed:"                           : @"\U0001F633", \
     @":fm:"                                : @"\U0001F1EB\U0001F1F2", \
     @":fo:"                                : @"\U0001F1EB\U0001F1F4", \
+    @":fog:"                               : @"\U0001F32B", \
     @":foggy:"                             : @"\U0001F301", \
     @":football:"                          : @"\U0001F3C8", \
     @":footprints:"                        : @"\U0001F463", \
     @":fork_and_knife:"                    : @"\U0001F374", \
     @":fountain:"                          : @"\U000026F2", \
+    @":four:"                              : @"4\U0000FE0F\U000020E3", \
     @":four_leaf_clover:"                  : @"\U0001F340", \
+    @":fox:"                               : @"\U0001F98A", \
     @":fr:"                                : @"\U0001F1EB\U0001F1F7", \
+    @":frame_with_picture:"                : @"\U0001F5BC", \
     @":free:"                              : @"\U0001F193", \
     @":fried_shrimp:"                      : @"\U0001F364", \
     @":fries:"                             : @"\U0001F35F", \
@@ -895,11 +754,13 @@
     @":fuelpump:"                          : @"\U000026FD", \
     @":full_moon:"                         : @"\U0001F315", \
     @":full_moon_with_face:"               : @"\U0001F31D", \
+    @":funeral_urn:"                       : @"\U000026B1", \
     @":ga:"                                : @"\U0001F1EC\U0001F1E6", \
     @":game_die:"                          : @"\U0001F3B2", \
     @":gb:"                                : @"\U0001F1EC\U0001F1E7", \
     @":gd:"                                : @"\U0001F1EC\U0001F1E9", \
     @":ge:"                                : @"\U0001F1EC\U0001F1EA", \
+    @":gear:"                              : @"\U00002699", \
     @":gem:"                               : @"\U0001F48E", \
     @":gemini:"                            : @"\U0000264A", \
     @":gf:"                                : @"\U0001F1EC\U0001F1EB", \
@@ -911,11 +772,16 @@
     @":gift_heart:"                        : @"\U0001F49D", \
     @":girl:"                              : @"\U0001F467", \
     @":gl:"                                : @"\U0001F1EC\U0001F1F1", \
+    @":glas_of_milk:"                      : @"\U0001F95B", \
     @":globe_with_meridians:"              : @"\U0001F310", \
     @":gm:"                                : @"\U0001F1EC\U0001F1F2", \
     @":gn:"                                : @"\U0001F1EC\U0001F1F3", \
+    @":goal_net:"                          : @"\U0001F945", \
     @":goat:"                              : @"\U0001F410", \
     @":golf:"                              : @"\U000026F3", \
+    @":golfer:"                            : @"\U0001F3CC", \
+    @":golfer_woman:"                      : @"\U0001F3CC\U0000FE0F\U0000200D\U00002640", \
+    @":gorilla:"                           : @"\U0001F98D", \
     @":gp:"                                : @"\U0001F1EC\U0001F1F5", \
     @":gq:"                                : @"\U0001F1EC\U0001F1F6", \
     @":gr:"                                : @"\U0001F1EC\U0001F1F7", \
@@ -923,15 +789,18 @@
     @":green_apple:"                       : @"\U0001F34F", \
     @":green_book:"                        : @"\U0001F4D7", \
     @":green_heart:"                       : @"\U0001F49A", \
+    @":green_salad:"                       : @"\U0001F957", \
     @":grey_exclamation:"                  : @"\U00002755", \
     @":grey_question:"                     : @"\U00002754", \
     @":grimacing:"                         : @"\U0001F62C", \
     @":grin:"                              : @"\U0001F601", \
     @":grinning:"                          : @"\U0001F600", \
+    @":groom:"                             : @"\U0001F935", \
     @":gs:"                                : @"\U0001F1EC\U0001F1F8", \
     @":gt:"                                : @"\U0001F1EC\U0001F1F9", \
     @":gu:"                                : @"\U0001F1EC\U0001F1FA", \
     @":guardsman:"                         : @"\U0001F482", \
+    @":guardswoman:"                       : @"\U0001F482\U0000200D\U00002640", \
     @":guitar:"                            : @"\U0001F3B8", \
     @":gun:"                               : @"\U0001F52B", \
     @":gw:"                                : @"\U0001F1EC\U0001F1FC", \
@@ -939,13 +808,19 @@
     @":haircut:"                           : @"\U0001F487", \
     @":hamburger:"                         : @"\U0001F354", \
     @":hammer:"                            : @"\U0001F528", \
+    @":hammer_and_pick:"                   : @"\U00002692", \
+    @":hammer_and_wrench:"                 : @"\U0001F6E0", \
     @":hamster:"                           : @"\U0001F439", \
     @":hand:"                              : @"\U0000270B", \
     @":handbag:"                           : @"\U0001F45C", \
+    @":handshake:"                         : @"\U0001F91D", \
     @":hankey:"                            : @"\U0001F4A9", \
+    @":hash:"                              : @"#\U0000FE0F\U000020E3", \
     @":hatched_chick:"                     : @"\U0001F425", \
     @":hatching_chick:"                    : @"\U0001F423", \
     @":headphones:"                        : @"\U0001F3A7", \
+    @":health_worker_man:"                 : @"\U0001F468\U0000200D\U00002695", \
+    @":health_worker_woman:"               : @"\U0001F469\U0000200D\U00002695", \
     @":hear_no_evil:"                      : @"\U0001F649", \
     @":heart:"                             : @"\U00002764", \
     @":heart_decoration:"                  : @"\U0001F49F", \
@@ -958,10 +833,12 @@
     @":heavy_division_sign:"               : @"\U00002797", \
     @":heavy_dollar_sign:"                 : @"\U0001F4B2", \
     @":heavy_exclamation_mark:"            : @"\U00002757", \
+    @":heavy_heart_exclamation:"           : @"\U00002763", \
     @":heavy_minus_sign:"                  : @"\U00002796", \
     @":heavy_multiplication_x:"            : @"\U00002716", \
     @":heavy_plus_sign:"                   : @"\U00002795", \
     @":helicopter:"                        : @"\U0001F681", \
+    @":helmet_with_white_cross:"           : @"\U000026D1", \
     @":herb:"                              : @"\U0001F33F", \
     @":hibiscus:"                          : @"\U0001F33A", \
     @":high_brightness:"                   : @"\U0001F506", \
@@ -970,22 +847,29 @@
     @":hm:"                                : @"\U0001F1ED\U0001F1F2", \
     @":hn:"                                : @"\U0001F1ED\U0001F1F3", \
     @":hocho:"                             : @"\U0001F52A", \
+    @":hole:"                              : @"\U0001F573", \
     @":honey_pot:"                         : @"\U0001F36F", \
     @":honeybee:"                          : @"\U0001F41D", \
     @":horse:"                             : @"\U0001F434", \
     @":horse_racing:"                      : @"\U0001F3C7", \
     @":hospital:"                          : @"\U0001F3E5", \
+    @":hot_pepper:"                        : @"\U0001F336", \
+    @":hotdog:"                            : @"\U0001F32D", \
     @":hotel:"                             : @"\U0001F3E8", \
     @":hotsprings:"                        : @"\U00002668", \
     @":hourglass:"                         : @"\U0000231B", \
     @":hourglass_flowing_sand:"            : @"\U000023F3", \
     @":house:"                             : @"\U0001F3E0", \
+    @":house_buildings:"                   : @"\U0001F3D8", \
     @":house_with_garden:"                 : @"\U0001F3E1", \
     @":hr:"                                : @"\U0001F1ED\U0001F1F7", \
     @":ht:"                                : @"\U0001F1ED\U0001F1F9", \
     @":hu:"                                : @"\U0001F1ED\U0001F1FA", \
+    @":hugging_face:"                      : @"\U0001F917", \
     @":hushed:"                            : @"\U0001F62F", \
     @":ice_cream:"                         : @"\U0001F368", \
+    @":ice_hockey_stick_and_puck:"         : @"\U0001F3D2", \
+    @":ice_skate:"                         : @"\U000026F8", \
     @":icecream:"                          : @"\U0001F366", \
     @":id:"                                : @"\U0001F194", \
     @":id:"                                : @"\U0001F1EE\U0001F1E9", \
@@ -1019,9 +903,15 @@
     @":jo:"                                : @"\U0001F1EF\U0001F1F4", \
     @":joy:"                               : @"\U0001F602", \
     @":joy_cat:"                           : @"\U0001F639", \
+    @":joystick:"                          : @"\U0001F579", \
     @":jp:"                                : @"\U0001F1EF\U0001F1F5", \
+    @":judge:"                             : @"\U0001F468\U0000200D\U00002696", \
+    @":judge_woman:"                       : @"\U0001F469\U0000200D\U00002696", \
+    @":judo:"                              : @"\U0001F94B", \
+    @":kaaba:"                             : @"\U0001F54B", \
     @":ke:"                                : @"\U0001F1F0\U0001F1EA", \
     @":key:"                               : @"\U0001F511", \
+    @":keyboard:"                          : @"\U00002328", \
     @":keycap_ten:"                        : @"\U0001F51F", \
     @":kg:"                                : @"\U0001F1F0\U0001F1EC", \
     @":kh:"                                : @"\U0001F1F0\U0001F1ED", \
@@ -1033,54 +923,71 @@
     @":kissing_closed_eyes:"               : @"\U0001F61A", \
     @":kissing_heart:"                     : @"\U0001F618", \
     @":kissing_smiling_eyes:"              : @"\U0001F619", \
+    @":kiwi:"                              : @"\U0001F95D", \
     @":km:"                                : @"\U0001F1F0\U0001F1F2", \
     @":kn:"                                : @"\U0001F1F0\U0001F1F3", \
+    @":knife_fork_plate:"                  : @"\U0001F37D", \
     @":koala:"                             : @"\U0001F428", \
     @":koko:"                              : @"\U0001F201", \
     @":kp:"                                : @"\U0001F1F0\U0001F1F5", \
     @":kr:"                                : @"\U0001F1F0\U0001F1F7", \
     @":kw:"                                : @"\U0001F1F0\U0001F1FC", \
+    @":kx:"                                : @"\U0001F1FD\U0001F1F0", \
     @":ky:"                                : @"\U0001F1F0\U0001F1FE", \
     @":kz:"                                : @"\U0001F1F0\U0001F1FF", \
     @":la:"                                : @"\U0001F1F1\U0001F1E6", \
+    @":label:"                             : @"\U0001F3F7", \
     @":lantern:"                           : @"\U0001F3EE", \
     @":large_blue_circle:"                 : @"\U0001F535", \
     @":large_blue_diamond:"                : @"\U0001F537", \
     @":large_orange_diamond:"              : @"\U0001F536", \
     @":last_quarter_moon:"                 : @"\U0001F317", \
     @":last_quarter_moon_with_face:"       : @"\U0001F31C", \
+    @":latin_cross:"                       : @"\U0000271D", \
     @":laughing:"                          : @"\U0001F606", \
     @":lb:"                                : @"\U0001F1F1\U0001F1E7", \
     @":lc:"                                : @"\U0001F1F1\U0001F1E8", \
     @":leaves:"                            : @"\U0001F343", \
     @":ledger:"                            : @"\U0001F4D2", \
+    @":left_facing_fist:"                  : @"\U0001F91B", \
     @":left_luggage:"                      : @"\U0001F6C5", \
     @":left_right_arrow:"                  : @"\U00002194", \
     @":leftwards_arrow_with_hook:"         : @"\U000021A9", \
     @":lemon:"                             : @"\U0001F34B", \
     @":leo:"                               : @"\U0000264C", \
     @":leopard:"                           : @"\U0001F406", \
+    @":level_slider:"                      : @"\U0001F39A", \
     @":li:"                                : @"\U0001F1F1\U0001F1EE", \
     @":libra:"                             : @"\U0000264E", \
     @":light_rail:"                        : @"\U0001F688", \
+    @":lightning_cloud:"                   : @"\U0001F329", \
     @":link:"                              : @"\U0001F517", \
+    @":linked_paperclips:"                 : @"\U0001F587", \
+    @":lion:"                              : @"\U0001F981", \
     @":lips:"                              : @"\U0001F444", \
     @":lipstick:"                          : @"\U0001F484", \
+    @":lizard:"                            : @"\U0001F98E", \
     @":lk:"                                : @"\U0001F1F1\U0001F1F0", \
     @":lock:"                              : @"\U0001F512", \
     @":lock_with_ink_pen:"                 : @"\U0001F50F", \
     @":lollipop:"                          : @"\U0001F36D", \
     @":loop:"                              : @"\U000027BF", \
+    @":loud_sound:"                        : @"\U0001F50A", \
     @":loudspeaker:"                       : @"\U0001F4E2", \
     @":love_hotel:"                        : @"\U0001F3E9", \
     @":love_letter:"                       : @"\U0001F48C", \
     @":low_brightness:"                    : @"\U0001F505", \
+    @":lower_left_ballpoint_pen:"          : @"\U0001F58A", \
+    @":lower_left_crayon:"                 : @"\U0001F58D", \
+    @":lower_left_fountain_pen:"           : @"\U0001F58B", \
+    @":lower_left_paintbrush:"             : @"\U0001F58C", \
     @":lr:"                                : @"\U0001F1F1\U0001F1F7", \
     @":ls:"                                : @"\U0001F1F1\U0001F1F8", \
     @":lt:"                                : @"\U0001F1F1\U0001F1F9", \
     @":lu:"                                : @"\U0001F1F1\U0001F1FA", \
     @":lv:"                                : @"\U0001F1F1\U0001F1FB", \
     @":ly:"                                : @"\U0001F1F1\U0001F1FE", \
+    @":lying_face:"                        : @"\U0001F925", \
     @":m:"                                 : @"\U000024C2", \
     @":ma:"                                : @"\U0001F1F2\U0001F1E6", \
     @":mag:"                               : @"\U0001F50D", \
@@ -1090,20 +997,57 @@
     @":mailbox_closed:"                    : @"\U0001F4EA", \
     @":mailbox_with_mail:"                 : @"\U0001F4EC", \
     @":mailbox_with_no_mail:"              : @"\U0001F4ED", \
+    @":man-boy-boy:"                       : @"\U0001F468\U0000200D\U0001F466\U0000200D\U0001F466", \
+    @":man-boy:"                           : @"\U0001F468\U0000200D\U0001F466", \
+    @":man-girl-boy:"                      : @"\U0001F468\U0000200D\U0001F467\U0000200D\U0001F466", \
+    @":man-girl-girl:"                     : @"\U0001F468\U0000200D\U0001F467\U0000200D\U0001F467", \
+    @":man-girl:"                          : @"\U0001F468\U0000200D\U0001F467", \
+    @":man-heart-man:"                     : @"\U0001F468\U0000200D\U00002764\U0000FE0F\U0000200D\U0001F468", \
+    @":man-kiss-man:"                      : @"\U0001F468\U0000200D\U00002764\U0000FE0F\U0000200D\U0001F48B\U0000200D\U0001F468", \
+    @":man-man-boy-boy:"                   : @"\U0001F468\U0000200D\U0001F468\U0000200D\U0001F466\U0000200D\U0001F466", \
+    @":man-man-boy:"                       : @"\U0001F468\U0000200D\U0001F468\U0000200D\U0001F466", \
+    @":man-man-girl-boy:"                  : @"\U0001F468\U0000200D\U0001F468\U0000200D\U0001F467\U0000200D\U0001F466", \
+    @":man-man-girl-girl:"                 : @"\U0001F468\U0000200D\U0001F468\U0000200D\U0001F467\U0000200D\U0001F467", \
+    @":man-man-girl:"                      : @"\U0001F468\U0000200D\U0001F468\U0000200D\U0001F467", \
+    @":man-woman-boy-boy:"                 : @"\U0001F468\U0000200D\U0001F469\U0000200D\U0001F466\U0000200D\U0001F466", \
+    @":man-woman-boy:"                     : @"\U0001F468\U0000200D\U0001F469\U0000200D\U0001F466", \
+    @":man-woman-girl-boy:"                : @"\U0001F468\U0000200D\U0001F469\U0000200D\U0001F467\U0000200D\U0001F466", \
+    @":man-woman-girl-girl:"               : @"\U0001F468\U0000200D\U0001F469\U0000200D\U0001F467\U0000200D\U0001F467", \
+    @":man-woman-girl:"                    : @"\U0001F468\U0000200D\U0001F469\U0000200D\U0001F467", \
     @":man:"                               : @"\U0001F468", \
+    @":man_dancing:"                       : @"\U0001F57A", \
+    @":man_doing_cartwheel:"               : @"\U0001F938\U0000200D\U00002642", \
+    @":man_frowning:"                      : @"\U0001F64D\U0000200D\U00002642", \
+    @":man_gesturing_no:"                  : @"\U0001F645\U0000200D\U00002642", \
+    @":man_gesturing_ok:"                  : @"\U0001F646\U0000200D\U00002642", \
+    @":man_getting_haircut:"               : @"\U0001F487\U0000200D\U00002642", \
+    @":man_in_business_suit_levitating:"   : @"\U0001F574", \
+    @":man_juggling:"                      : @"\U0001F939\U0000200D\U00002642", \
+    @":man_playing_handball:"              : @"\U0001F93E\U0000200D\U00002642", \
+    @":man_playing_water_polo:"            : @"\U0001F93D\U0000200D\U00002642", \
+    @":man_pouting:"                       : @"\U0001F64E\U0000200D\U00002642", \
+    @":man_raising_hand:"                  : @"\U0001F64B\U0000200D\U00002642", \
+    @":man_shrugging:"                     : @"\U0001F937\U0000200D\U00002642", \
+    @":man_tipping_hand:"                  : @"\U0001F481\U0000200D\U00002642", \
     @":man_with_gua_pi_mao:"               : @"\U0001F472", \
     @":man_with_turban:"                   : @"\U0001F473", \
     @":mans_shoe:"                         : @"\U0001F45E", \
+    @":mantelpiece_clock:"                 : @"\U0001F570", \
     @":maple_leaf:"                        : @"\U0001F341", \
     @":mask:"                              : @"\U0001F637", \
     @":massage:"                           : @"\U0001F486", \
+    @":massage_man:"                       : @"\U0001F486\U0000200D\U00002642", \
     @":mc:"                                : @"\U0001F1F2\U0001F1E8", \
     @":md:"                                : @"\U0001F1F2\U0001F1E9", \
     @":me:"                                : @"\U0001F1F2\U0001F1EA", \
     @":meat_on_bone:"                      : @"\U0001F356", \
+    @":mechanic:"                          : @"\U0001F468\U0000200D\U0001F527", \
+    @":mechanic_woman:"                    : @"\U0001F469\U0000200D\U0001F527", \
     @":mega:"                              : @"\U0001F4E3", \
     @":melon:"                             : @"\U0001F348", \
     @":memo:"                              : @"\U0001F4DD", \
+    @":men_wrestling:"                     : @"\U0001F93C\U0000200D\U00002642", \
+    @":menorah_with_nine_branches:"        : @"\U0001F54E", \
     @":mens:"                              : @"\U0001F6B9", \
     @":metro:"                             : @"\U0001F687", \
     @":mf:"                                : @"\U0001F1F2\U0001F1EB", \
@@ -1111,6 +1055,8 @@
     @":mh:"                                : @"\U0001F1F2\U0001F1ED", \
     @":microphone:"                        : @"\U0001F3A4", \
     @":microscope:"                        : @"\U0001F52C", \
+    @":middle_finger:"                     : @"\U0001F595", \
+    @":military-medal:"                    : @"\U0001F396", \
     @":milky_way:"                         : @"\U0001F30C", \
     @":minibus:"                           : @"\U0001F690", \
     @":minidisc:"                          : @"\U0001F4BD", \
@@ -1120,6 +1066,7 @@
     @":mn:"                                : @"\U0001F1F2\U0001F1F3", \
     @":mo:"                                : @"\U0001F1F2\U0001F1F4", \
     @":mobile_phone_off:"                  : @"\U0001F4F4", \
+    @":money_mouth_face:"                  : @"\U0001F911", \
     @":money_with_wings:"                  : @"\U0001F4B8", \
     @":moneybag:"                          : @"\U0001F4B0", \
     @":monkey:"                            : @"\U0001F412", \
@@ -1127,17 +1074,24 @@
     @":monorail:"                          : @"\U0001F69D", \
     @":moon:"                              : @"\U0001F314", \
     @":mortar_board:"                      : @"\U0001F393", \
+    @":mosque:"                            : @"\U0001F54C", \
+    @":motor_boat:"                        : @"\U0001F6E5", \
+    @":motor_scooter:"                     : @"\U0001F6F5", \
+    @":motorway:"                          : @"\U0001F6E3", \
     @":mount_fuji:"                        : @"\U0001F5FB", \
+    @":mountain:"                          : @"\U000026F0", \
     @":mountain_bicyclist:"                : @"\U0001F6B5", \
+    @":mountain_bicyclist_woman:"          : @"\U0001F6B5\U0000200D\U00002640", \
     @":mountain_cableway:"                 : @"\U0001F6A0", \
     @":mountain_railway:"                  : @"\U0001F69E", \
-    @":mouse:"                             : @"\U0001F42D", \
     @":mouse2:"                            : @"\U0001F401", \
+    @":mouse:"                             : @"\U0001F42D", \
     @":movie_camera:"                      : @"\U0001F3A5", \
     @":moyai:"                             : @"\U0001F5FF", \
     @":mp:"                                : @"\U0001F1F2\U0001F1F5", \
     @":mq:"                                : @"\U0001F1F2\U0001F1F6", \
     @":mr:"                                : @"\U0001F1F2\U0001F1F7", \
+    @":mrs_claus:"                         : @"\U0001F936", \
     @":ms:"                                : @"\U0001F1F2\U0001F1F8", \
     @":mt:"                                : @"\U0001F1F2\U0001F1F9", \
     @":mu:"                                : @"\U0001F1F2\U0001F1FA", \
@@ -1155,19 +1109,25 @@
     @":na:"                                : @"\U0001F1F3\U0001F1E6", \
     @":nail_care:"                         : @"\U0001F485", \
     @":name_badge:"                        : @"\U0001F4DB", \
+    @":national_park:"                     : @"\U0001F3DE", \
+    @":nauseated_face:"                    : @"\U0001F922", \
     @":nc:"                                : @"\U0001F1F3\U0001F1E8", \
     @":ne:"                                : @"\U0001F1F3\U0001F1EA", \
     @":necktie:"                           : @"\U0001F454", \
     @":negative_squared_cross_mark:"       : @"\U0000274E", \
+    @":nerd_face:"                         : @"\U0001F913", \
     @":neutral_face:"                      : @"\U0001F610", \
     @":new:"                               : @"\U0001F195", \
     @":new_moon:"                          : @"\U0001F311", \
     @":new_moon_with_face:"                : @"\U0001F31A", \
     @":newspaper:"                         : @"\U0001F4F0", \
+    @":next:"                              : @"\U000023ED", \
     @":nf:"                                : @"\U0001F1F3\U0001F1EB", \
     @":ng:"                                : @"\U0001F196", \
     @":ng:"                                : @"\U0001F1F3\U0001F1EC", \
     @":ni:"                                : @"\U0001F1F3\U0001F1EE", \
+    @":night_with_star:"                   : @"\U0001F303", \
+    @":nine:"                              : @"9\U0000FE0F\U000020E3", \
     @":nl:"                                : @"\U0001F1F3\U0001F1F1", \
     @":no:"                                : @"\U0001F1F3\U0001F1F4", \
     @":no_bell:"                           : @"\U0001F515", \
@@ -1189,69 +1149,91 @@
     @":nu:"                                : @"\U0001F1F3\U0001F1FA", \
     @":nut_and_bolt:"                      : @"\U0001F529", \
     @":nz:"                                : @"\U0001F1F3\U0001F1FF", \
-    @":o:"                                 : @"\U00002B55", \
     @":o2:"                                : @"\U0001F17E", \
+    @":o:"                                 : @"\U00002B55", \
     @":ocean:"                             : @"\U0001F30A", \
+    @":octagonal_sign:"                    : @"\U0001F6D1", \
     @":octopus:"                           : @"\U0001F419", \
     @":oden:"                              : @"\U0001F362", \
     @":office:"                            : @"\U0001F3E2", \
+    @":office_worker:"                     : @"\U0001F468\U0000200D\U0001F4BC", \
+    @":office_worker_woman:"               : @"\U0001F469\U0000200D\U0001F4BC", \
+    @":oil-drum:"                          : @"\U0001F6E2", \
     @":ok:"                                : @"\U0001F197", \
     @":ok_hand:"                           : @"\U0001F44C", \
     @":ok_woman:"                          : @"\U0001F646", \
+    @":old_key:"                           : @"\U0001F5DD", \
     @":older_man:"                         : @"\U0001F474", \
     @":older_woman:"                       : @"\U0001F475", \
     @":om:"                                : @"\U0001F1F4\U0001F1F2", \
+    @":om_symbol:"                         : @"\U0001F549", \
     @":on:"                                : @"\U0001F51B", \
     @":oncoming_automobile:"               : @"\U0001F698", \
     @":oncoming_bus:"                      : @"\U0001F68D", \
     @":oncoming_police_car:"               : @"\U0001F694", \
     @":oncoming_taxi:"                     : @"\U0001F696", \
+    @":one:"                               : @"1\U0000FE0F\U000020E3", \
     @":open_book:"                         : @"\U0001F4D6", \
     @":open_file_folder:"                  : @"\U0001F4C2", \
     @":open_hands:"                        : @"\U0001F450", \
     @":open_mouth:"                        : @"\U0001F62E", \
     @":ophiuchus:"                         : @"\U000026CE", \
     @":orange_book:"                       : @"\U0001F4D9", \
+    @":orthodox_cross:"                    : @"\U00002626", \
     @":outbox_tray:"                       : @"\U0001F4E4", \
+    @":owl:"                               : @"\U0001F989", \
     @":ox:"                                : @"\U0001F402", \
     @":pa:"                                : @"\U0001F1F5\U0001F1E6", \
     @":package:"                           : @"\U0001F4E6", \
+    @":paella:"                            : @"\U0001F958", \
     @":page_facing_up:"                    : @"\U0001F4C4", \
     @":page_with_curl:"                    : @"\U0001F4C3", \
     @":pager:"                             : @"\U0001F4DF", \
     @":palm_tree:"                         : @"\U0001F334", \
+    @":pancakes:"                          : @"\U0001F95E", \
     @":panda_face:"                        : @"\U0001F43C", \
     @":paperclip:"                         : @"\U0001F4CE", \
     @":parking:"                           : @"\U0001F17F", \
     @":part_alternation_mark:"             : @"\U0000303D", \
     @":partly_sunny:"                      : @"\U000026C5", \
+    @":passenger_ship:"                    : @"\U0001F6F3", \
     @":passport_control:"                  : @"\U0001F6C2", \
+    @":pause:"                             : @"\U000023F8", \
     @":paw_prints:"                        : @"\U0001F43E", \
     @":pe:"                                : @"\U0001F1F5\U0001F1EA", \
+    @":peace:"                             : @"\U0000262E", \
     @":peach:"                             : @"\U0001F351", \
+    @":peanuts:"                           : @"\U0001F95C", \
     @":pear:"                              : @"\U0001F350", \
-    @":pencil:"                            : @"\U0001F4DD", \
     @":pencil2:"                           : @"\U0000270F", \
+    @":pencil:"                            : @"\U0001F4DD", \
     @":penguin:"                           : @"\U0001F427", \
     @":pensive:"                           : @"\U0001F614", \
     @":performing_arts:"                   : @"\U0001F3AD", \
     @":persevere:"                         : @"\U0001F623", \
     @":person_frowning:"                   : @"\U0001F64D", \
+    @":person_with_ball:"                  : @"\U000026F9", \
     @":person_with_blond_hair:"            : @"\U0001F471", \
     @":person_with_pouting_face:"          : @"\U0001F64E", \
     @":pf:"                                : @"\U0001F1F5\U0001F1EB", \
     @":pg:"                                : @"\U0001F1F5\U0001F1EC", \
     @":ph:"                                : @"\U0001F1F5\U0001F1ED", \
     @":phone:"                             : @"\U0000260E", \
-    @":pig:"                               : @"\U0001F437", \
+    @":pick:"                              : @"\U000026CF", \
     @":pig2:"                              : @"\U0001F416", \
+    @":pig:"                               : @"\U0001F437", \
     @":pig_nose:"                          : @"\U0001F43D", \
     @":pill:"                              : @"\U0001F48A", \
+    @":pilot:"                             : @"\U0001F468\U0000200D\U00002708", \
+    @":pilot_woman:"                       : @"\U0001F469\U0000200D\U00002708", \
     @":pineapple:"                         : @"\U0001F34D", \
+    @":pingpong:"                          : @"\U0001F3D3", \
     @":pisces:"                            : @"\U00002653", \
     @":pizza:"                             : @"\U0001F355", \
     @":pk:"                                : @"\U0001F1F5\U0001F1F0", \
     @":pl:"                                : @"\U0001F1F5\U0001F1F1", \
+    @":place_of_worship:"                  : @"\U0001F6D0", \
+    @":play_pause:"                        : @"\U000023EF", \
     @":pm:"                                : @"\U0001F1F5\U0001F1F2", \
     @":pn:"                                : @"\U0001F1F5\U0001F1F3", \
     @":point_down:"                        : @"\U0001F447", \
@@ -1260,19 +1242,27 @@
     @":point_up:"                          : @"\U0000261D", \
     @":point_up_2:"                        : @"\U0001F446", \
     @":police_car:"                        : @"\U0001F693", \
+    @":policewoman:"                       : @"\U0001F46E\U0000200D\U00002640", \
     @":poodle:"                            : @"\U0001F429", \
     @":poop:"                              : @"\U0001F4A9", \
+    @":popcorn:"                           : @"\U0001F37F", \
     @":post_office:"                       : @"\U0001F3E3", \
     @":postal_horn:"                       : @"\U0001F4EF", \
     @":postbox:"                           : @"\U0001F4EE", \
     @":potable_water:"                     : @"\U0001F6B0", \
+    @":potato:"                            : @"\U0001F954", \
     @":pouch:"                             : @"\U0001F45D", \
     @":poultry_leg:"                       : @"\U0001F357", \
     @":pound:"                             : @"\U0001F4B7", \
     @":pouting_cat:"                       : @"\U0001F63E", \
     @":pr:"                                : @"\U0001F1F5\U0001F1F7", \
     @":pray:"                              : @"\U0001F64F", \
+    @":prayer_beads:"                      : @"\U0001F4FF", \
+    @":pregnant:"                          : @"\U0001F930", \
+    @":prev:"                              : @"\U000023EE", \
+    @":prince:"                            : @"\U0001F934", \
     @":princess:"                          : @"\U0001F478", \
+    @":printer:"                           : @"\U0001F5A8", \
     @":ps:"                                : @"\U0001F1F5\U0001F1F8", \
     @":pt:"                                : @"\U0001F1F5\U0001F1F9", \
     @":punch:"                             : @"\U0001F44A", \
@@ -1284,43 +1274,60 @@
     @":py:"                                : @"\U0001F1F5\U0001F1FE", \
     @":qa:"                                : @"\U0001F1F6\U0001F1E6", \
     @":question:"                          : @"\U00002753", \
-    @":rabbit:"                            : @"\U0001F430", \
     @":rabbit2:"                           : @"\U0001F407", \
+    @":rabbit:"                            : @"\U0001F430", \
     @":racehorse:"                         : @"\U0001F40E", \
+    @":racing_car:"                        : @"\U0001F3CE", \
+    @":racing_motorcycle:"                 : @"\U0001F3CD", \
     @":radio:"                             : @"\U0001F4FB", \
     @":radio_button:"                      : @"\U0001F518", \
+    @":radioactive_sign:"                  : @"\U00002622", \
     @":rage:"                              : @"\U0001F621", \
     @":railway_car:"                       : @"\U0001F683", \
+    @":railway_car:"                       : @"\U0001F683", \
+    @":railway_track:"                     : @"\U0001F6E4", \
+    @":rain_cloud:"                        : @"\U0001F327", \
     @":rainbow:"                           : @"\U0001F308", \
+    @":rainbow_flag:"                      : @"\U0001F3F3\U0000FE0F\U0000200D\U0001F308", \
     @":raised_hand:"                       : @"\U0000270B", \
+    @":raised_hand_with_fingers_splayed:"  : @"\U0001F590", \
     @":raised_hands:"                      : @"\U0001F64C", \
     @":raising_hand:"                      : @"\U0001F64B", \
     @":ram:"                               : @"\U0001F40F", \
     @":ramen:"                             : @"\U0001F35C", \
     @":rat:"                               : @"\U0001F400", \
     @":re:"                                : @"\U0001F1F7\U0001F1EA", \
+    @":record:"                            : @"\U000023FA", \
     @":recycle:"                           : @"\U0000267B", \
     @":red_car:"                           : @"\U0001F697", \
     @":red_circle:"                        : @"\U0001F534", \
     @":registered:"                        : @"\U000000AE", \
     @":relaxed:"                           : @"\U0000263A", \
     @":relieved:"                          : @"\U0001F60C", \
+    @":reminder_ribbon:"                   : @"\U0001F397", \
     @":repeat:"                            : @"\U0001F501", \
     @":repeat_one:"                        : @"\U0001F502", \
     @":restroom:"                          : @"\U0001F6BB", \
     @":revolving_hearts:"                  : @"\U0001F49E", \
     @":rewind:"                            : @"\U000023EA", \
+    @":rhinoceros:"                        : @"\U0001F98F", \
     @":ribbon:"                            : @"\U0001F380", \
     @":rice:"                              : @"\U0001F35A", \
     @":rice_ball:"                         : @"\U0001F359", \
     @":rice_cracker:"                      : @"\U0001F358", \
     @":rice_scene:"                        : @"\U0001F391", \
+    @":right_anger_bubble:"                : @"\U0001F5EF", \
+    @":right_facing_fist:"                 : @"\U0001F91C", \
     @":ring:"                              : @"\U0001F48D", \
     @":ro:"                                : @"\U0001F1F7\U0001F1F4", \
+    @":robot_face:"                        : @"\U0001F916", \
     @":rocket:"                            : @"\U0001F680", \
+    @":rofl:"                              : @"\U0001F923", \
+    @":rolled_up_newspaper:"               : @"\U0001F5DE", \
     @":roller_coaster:"                    : @"\U0001F3A2", \
     @":rooster:"                           : @"\U0001F413", \
     @":rose:"                              : @"\U0001F339", \
+    @":rosette:"                           : @"\U0001F3F5", \
     @":rotating_light:"                    : @"\U0001F6A8", \
     @":round_pushpin:"                     : @"\U0001F4CD", \
     @":rowboat:"                           : @"\U0001F6A3", \
@@ -1328,6 +1335,7 @@
     @":ru:"                                : @"\U0001F1F7\U0001F1FA", \
     @":rugby_football:"                    : @"\U0001F3C9", \
     @":runner:"                            : @"\U0001F3C3", \
+    @":runner_woman:"                      : @"\U0001F3C3\U0000200D\U00002640", \
     @":running:"                           : @"\U0001F3C3", \
     @":running_shirt_with_sash:"           : @"\U0001F3BD", \
     @":rw:"                                : @"\U0001F1F7\U0001F1FC", \
@@ -1338,14 +1346,20 @@
     @":sake:"                              : @"\U0001F376", \
     @":sandal:"                            : @"\U0001F461", \
     @":santa:"                             : @"\U0001F385", \
-    @":satellite:"                         : @"\U0001F4E1", \
+    @":satellite:"                         : @"\U0001F6F0", \
+    @":satellite_antenna:"                 : @"\U0001F4E1", \
     @":satisfied:"                         : @"\U0001F606", \
     @":saxophone:"                         : @"\U0001F3B7", \
     @":sb:"                                : @"\U0001F1F8\U0001F1E7", \
     @":sc:"                                : @"\U0001F1F8\U0001F1E8", \
+    @":scales:"                            : @"\U00002696", \
     @":school:"                            : @"\U0001F3EB", \
     @":school_satchel:"                    : @"\U0001F392", \
+    @":scientist:"                         : @"\U0001F468\U0000200D\U0001F52C", \
+    @":scientist_woman:"                   : @"\U0001F469\U0000200D\U0001F52C", \
     @":scissors:"                          : @"\U00002702", \
+    @":scooter:"                           : @"\U0001F6F4", \
+    @":scorpion:"                          : @"\U0001F982", \
     @":scorpius:"                          : @"\U0000264F", \
     @":scream:"                            : @"\U0001F631", \
     @":scream_cat:"                        : @"\U0001F640", \
@@ -1353,31 +1367,54 @@
     @":sd:"                                : @"\U0001F1F8\U0001F1E9", \
     @":se:"                                : @"\U0001F1F8\U0001F1EA", \
     @":seat:"                              : @"\U0001F4BA", \
+    @":second-place-medal:"                : @"\U0001F948", \
     @":secret:"                            : @"\U00003299", \
     @":see_no_evil:"                       : @"\U0001F648", \
     @":seedling:"                          : @"\U0001F331", \
+    @":selfie:"                            : @"\U0001F933", \
+    @":seven:"                             : @"7\U0000FE0F\U000020E3", \
     @":sg:"                                : @"\U0001F1F8\U0001F1EC", \
     @":sh:"                                : @"\U0001F1F8\U0001F1ED", \
+    @":shamrock:"                          : @"\U00002618", \
+    @":shark:"                             : @"\U0001F988", \
     @":shaved_ice:"                        : @"\U0001F367", \
     @":sheep:"                             : @"\U0001F411", \
     @":shell:"                             : @"\U0001F41A", \
+    @":shield:"                            : @"\U0001F6E1", \
+    @":shinto_shrine:"                     : @"\U000026E9", \
     @":ship:"                              : @"\U0001F6A2", \
     @":shirt:"                             : @"\U0001F455", \
     @":shit:"                              : @"\U0001F4A9", \
     @":shoe:"                              : @"\U0001F45E", \
+    @":shopping_bags:"                     : @"\U0001F6CD", \
+    @":shopping_trolley:"                  : @"\U0001F6D2", \
     @":shower:"                            : @"\U0001F6BF", \
+    @":shrimp:"                            : @"\U0001F990", \
+    @":shrug:"                              : @"\U0001F937\U0000200D\U00002640", \
     @":si:"                                : @"\U0001F1F8\U0001F1EE", \
     @":signal_strength:"                   : @"\U0001F4F6", \
+    @":singer:"                            : @"\U0001F468\U0000200D\U0001F3A4", \
+    @":singer_woman:"                      : @"\U0001F469\U0000200D\U0001F3A4", \
+    @":six:"                               : @"6\U0000FE0F\U000020E3", \
     @":six_pointed_star:"                  : @"\U0001F52F", \
     @":sj:"                                : @"\U0001F1F8\U0001F1EF", \
     @":sk:"                                : @"\U0001F1F8\U0001F1F0", \
     @":ski:"                               : @"\U0001F3BF", \
+    @":skier:"                             : @"\U000026F7", \
+    @":skier:"                             : @"\U000026F7", \
     @":skull:"                             : @"\U0001F480", \
+    @":skull_and_crossbones:"              : @"\U00002620", \
     @":sl:"                                : @"\U0001F1F8\U0001F1F1", \
     @":sleeping:"                          : @"\U0001F634", \
+    @":sleeping_accommodation:"            : @"\U0001F6CC", \
     @":sleepy:"                            : @"\U0001F62A", \
+    @":sleuth_or_spy:"                     : @"\U0001F575", \
+    @":sleuth_or_spy_woman:"               : @"\U0001F575\U0000FE0F\U0000200D\U00002640", \
+    @":slightly_frowning_face:"            : @"\U0001F641", \
+    @":slightly_smiling_face:"             : @"\U0001F642", \
     @":slot_machine:"                      : @"\U0001F3B0", \
     @":sm:"                                : @"\U0001F1F8\U0001F1F2", \
+    @":small_airplane:"                    : @"\U0001F6E9", \
     @":small_blue_diamond:"                : @"\U0001F539", \
     @":small_orange_diamond:"              : @"\U0001F538", \
     @":small_red_triangle:"                : @"\U0001F53A", \
@@ -1393,9 +1430,13 @@
     @":sn:"                                : @"\U0001F1F8\U0001F1F3", \
     @":snail:"                             : @"\U0001F40C", \
     @":snake:"                             : @"\U0001F40D", \
+    @":sneezing_face:"                     : @"\U0001F927", \
+    @":snow_capped_mountain:"              : @"\U0001F3D4", \
+    @":snow_cloud:"                        : @"\U0001F328", \
     @":snowboarder:"                       : @"\U0001F3C2", \
     @":snowflake:"                         : @"\U00002744", \
-    @":snowman:"                           : @"\U000026C4", \
+    @":snowman:"                           : @"\U00002603", \
+    @":snowman_without_snow:"              : @"\U000026C4", \
     @":so:"                                : @"\U0001F1F8\U0001F1F4", \
     @":sob:"                               : @"\U0001F62D", \
     @":soccer:"                            : @"\U000026BD", \
@@ -1410,24 +1451,46 @@
     @":sparkles:"                          : @"\U00002728", \
     @":sparkling_heart:"                   : @"\U0001F496", \
     @":speak_no_evil:"                     : @"\U0001F64A", \
-    @":speaker:"                           : @"\U0001F50A", \
+    @":speaker:"                           : @"\U0001F508", \
+    @":speaking_head_in_silhouette:"       : @"\U0001F5E3", \
     @":speech_balloon:"                    : @"\U0001F4AC", \
     @":speedboat:"                         : @"\U0001F6A4", \
+    @":spider:"                            : @"\U0001F577", \
+    @":spider_web:"                        : @"\U0001F578", \
+    @":spiral_calendar_pad:"               : @"\U0001F5D3", \
+    @":spiral_note_pad:"                   : @"\U0001F5D2", \
+    @":spock-hand:"                        : @"\U0001F596", \
+    @":spoon:"                             : @"\U0001F944", \
+    @":sports-medal:"                      : @"\U0001F3C5", \
+    @":squid:"                             : @"\U0001F991", \
+    @":squirrel:"                          : @"\U0001F43F", \
     @":sr:"                                : @"\U0001F1F8\U0001F1F7", \
     @":ss:"                                : @"\U0001F1F8\U0001F1F8", \
     @":st:"                                : @"\U0001F1F8\U0001F1F9", \
-    @":star:"                              : @"\U00002B50", \
+    @":stadium:"                           : @"\U0001F3DF", \
     @":star2:"                             : @"\U0001F31F", \
-    @":stars:"                             : @"\U0001F303", \
+    @":star:"                              : @"\U00002B50", \
+    @":star_and_crescent:"                 : @"\U0000262A", \
+    @":star_of_david:"                     : @"\U00002721", \
+    @":stars:"                             : @"\U0001F320", \
     @":station:"                           : @"\U0001F689", \
     @":statue_of_liberty:"                 : @"\U0001F5FD", \
     @":steam_locomotive:"                  : @"\U0001F682", \
     @":stew:"                              : @"\U0001F372", \
+    @":stop:"                              : @"\U000023F9", \
+    @":stopwatch:"                         : @"\U000023F1", \
     @":straight_ruler:"                    : @"\U0001F4CF", \
     @":strawberry:"                        : @"\U0001F353", \
     @":stuck_out_tongue:"                  : @"\U0001F61B", \
     @":stuck_out_tongue_closed_eyes:"      : @"\U0001F61D", \
     @":stuck_out_tongue_winking_eye:"      : @"\U0001F61C", \
+    @":student:"                           : @"\U0001F468\U0000200D\U0001F393", \
+    @":student_woman:"                     : @"\U0001F469\U0000200D\U0001F393", \
+    @":studio_microphone:"                 : @"\U0001F399", \
+    @":stuffed_flatbread:"                 : @"\U0001F959", \
+    @":sun_behind_cloud:"                  : @"\U0001F325", \
+    @":sun_behind_rain_cloud:"             : @"\U0001F326", \
+    @":sun_small_cloud:"                   : @"\U0001F324", \
     @":sun_with_face:"                     : @"\U0001F31E", \
     @":sunflower:"                         : @"\U0001F33B", \
     @":sunglasses:"                        : @"\U0001F60E", \
@@ -1435,6 +1498,7 @@
     @":sunrise:"                           : @"\U0001F305", \
     @":sunrise_over_mountains:"            : @"\U0001F304", \
     @":surfer:"                            : @"\U0001F3C4", \
+    @":surfer_woman:"                      : @"\U0001F3C4\U0000200D\U00002640", \
     @":sushi:"                             : @"\U0001F363", \
     @":suspension_railway:"                : @"\U0001F69F", \
     @":sv:"                                : @"\U0001F1F8\U0001F1FB", \
@@ -1443,11 +1507,14 @@
     @":sweat_smile:"                       : @"\U0001F605", \
     @":sweet_potato:"                      : @"\U0001F360", \
     @":swimmer:"                           : @"\U0001F3CA", \
+    @":swimmer_woman:"                     : @"\U0001F3CA\U0000200D\U00002640", \
     @":sx:"                                : @"\U0001F1F8\U0001F1FD", \
     @":sy:"                                : @"\U0001F1F8\U0001F1FE", \
     @":symbols:"                           : @"\U0001F523", \
+    @":synagogue:"                         : @"\U0001F54D", \
     @":syringe:"                           : @"\U0001F489", \
     @":sz:"                                : @"\U0001F1F8\U0001F1FF", \
+    @":taco:"                              : @"\U0001F32E", \
     @":tada:"                              : @"\U0001F389", \
     @":tanabata_tree:"                     : @"\U0001F38B", \
     @":tangerine:"                         : @"\U0001F34A", \
@@ -1456,6 +1523,10 @@
     @":tc:"                                : @"\U0001F1F9\U0001F1E8", \
     @":td:"                                : @"\U0001F1F9\U0001F1E9", \
     @":tea:"                               : @"\U0001F375", \
+    @":teacher:"                           : @"\U0001F468\U0000200D\U0001F3EB", \
+    @":teacher_woman:"                     : @"\U0001F469\U0000200D\U0001F3EB", \
+    @":technologist:"                      : @"\U0001F468\U0000200D\U0001F4BB", \
+    @":technologist_woman:"                : @"\U0001F469\U0000200D\U0001F4BB", \
     @":telephone:"                         : @"\U0000260E", \
     @":telephone_receiver:"                : @"\U0001F4DE", \
     @":telescope:"                         : @"\U0001F52D", \
@@ -1464,12 +1535,20 @@
     @":tf:"                                : @"\U0001F1F9\U0001F1EB", \
     @":tg:"                                : @"\U0001F1F9\U0001F1EC", \
     @":th:"                                : @"\U0001F1F9\U0001F1ED", \
+    @":the_horns:"                         : @"\U0001F918", \
+    @":thermometer:"                       : @"\U0001F321", \
+    @":thinking_face:"                     : @"\U0001F914", \
+    @":third-place-medal:"                 : @"\U0001F949", \
     @":thought_balloon:"                   : @"\U0001F4AD", \
+    @":three:"                             : @"3\U0000FE0F\U000020E3", \
+    @":three_button_mouse:"                : @"\U0001F5B1", \
     @":thumbsdown:"                        : @"\U0001F44E", \
     @":thumbsup:"                          : @"\U0001F44D", \
+    @":thunder_cloud_and_rain:"            : @"\U000026C8", \
     @":ticket:"                            : @"\U0001F3AB", \
-    @":tiger:"                             : @"\U0001F42F", \
     @":tiger2:"                            : @"\U0001F405", \
+    @":tiger:"                             : @"\U0001F42F", \
+    @":timer_clock:"                       : @"\U000023F2", \
     @":tired_face:"                        : @"\U0001F62B", \
     @":tj:"                                : @"\U0001F1F9\U0001F1EF", \
     @":tk:"                                : @"\U0001F1F9\U0001F1F0", \
@@ -1484,11 +1563,14 @@
     @":tongue:"                            : @"\U0001F445", \
     @":top:"                               : @"\U0001F51D", \
     @":tophat:"                            : @"\U0001F3A9", \
+    @":tornado:"                           : @"\U0001F32A", \
+    @":tornado_cloud:"                     : @"\U0001F32A", \
     @":tr:"                                : @"\U0001F1F9\U0001F1F7", \
+    @":trackball:"                         : @"\U0001F5B2", \
     @":tractor:"                           : @"\U0001F69C", \
     @":traffic_light:"                     : @"\U0001F6A5", \
-    @":train:"                             : @"\U0001F683", \
     @":train2:"                            : @"\U0001F686", \
+    @":train:"                             : @"\U0001F68B", \
     @":tram:"                              : @"\U0001F68A", \
     @":triangular_flag_on_post:"           : @"\U0001F6A9", \
     @":triangular_ruler:"                  : @"\U0001F4D0", \
@@ -1503,11 +1585,13 @@
     @":tshirt:"                            : @"\U0001F455", \
     @":tt:"                                : @"\U0001F1F9\U0001F1F9", \
     @":tulip:"                             : @"\U0001F337", \
+    @":turkey:"                            : @"\U0001F983", \
     @":turtle:"                            : @"\U0001F422", \
     @":tv:"                                : @"\U0001F1F9\U0001F1FB", \
     @":tv:"                                : @"\U0001F4FA", \
     @":tw:"                                : @"\U0001F1F9\U0001F1FC", \
     @":twisted_rightwards_arrows:"         : @"\U0001F500", \
+    @":two:"                               : @"2\U0000FE0F\U000020E3", \
     @":two_hearts:"                        : @"\U0001F495", \
     @":two_men_holding_hands:"             : @"\U0001F46C", \
     @":two_women_holding_hands:"           : @"\U0001F46D", \
@@ -1526,11 +1610,15 @@
     @":ua:"                                : @"\U0001F1FA\U0001F1E6", \
     @":ug:"                                : @"\U0001F1FA\U0001F1EC", \
     @":um:"                                : @"\U0001F1FA\U0001F1F2", \
-    @":umbrella:"                          : @"\U00002614", \
+    @":umbrella:"                          : @"\U00002602", \
+    @":umbrella_on_ground:"                : @"\U000026F1", \
+    @":umbrella_with_rain_drops:"          : @"\U00002614", \
     @":unamused:"                          : @"\U0001F612", \
     @":underage:"                          : @"\U0001F51E", \
+    @":unicorn:"                           : @"\U0001F984", \
     @":unlock:"                            : @"\U0001F513", \
     @":up:"                                : @"\U0001F199", \
+    @":upside_down_face:"                  : @"\U0001F643", \
     @":us:"                                : @"\U0001F1FA\U0001F1F8", \
     @":uy:"                                : @"\U0001F1FA\U0001F1FE", \
     @":uz:"                                : @"\U0001F1FA\U0001F1FF", \
@@ -1539,6 +1627,7 @@
     @":vc:"                                : @"\U0001F1FB\U0001F1E8", \
     @":ve:"                                : @"\U0001F1FB\U0001F1EA", \
     @":vertical_traffic_light:"            : @"\U0001F6A6", \
+    @":vespa:"                             : @"\U0001F6F5", \
     @":vg:"                                : @"\U0001F1FB\U0001F1EC", \
     @":vhs:"                               : @"\U0001F4FC", \
     @":vi:"                                : @"\U0001F1FB\U0001F1EE", \
@@ -1549,53 +1638,94 @@
     @":virgo:"                             : @"\U0000264D", \
     @":vn:"                                : @"\U0001F1FB\U0001F1F3", \
     @":volcano:"                           : @"\U0001F30B", \
+    @":volleyball:"                        : @"\U0001F3D0", \
     @":vs:"                                : @"\U0001F19A", \
     @":vu:"                                : @"\U0001F1FB\U0001F1FA", \
     @":walking:"                           : @"\U0001F6B6", \
+    @":walking_woman:"                     : @"\U0001F6B6\U0000200D\U00002640", \
     @":waning_crescent_moon:"              : @"\U0001F318", \
     @":waning_gibbous_moon:"               : @"\U0001F316", \
     @":warning:"                           : @"\U000026A0", \
+    @":wastebasket:"                       : @"\U0001F5D1", \
     @":watch:"                             : @"\U0000231A", \
     @":water_buffalo:"                     : @"\U0001F403", \
     @":watermelon:"                        : @"\U0001F349", \
     @":wave:"                              : @"\U0001F44B", \
+    @":waving_black_flag:"                 : @"\U0001F3F4", \
+    @":waving_white_flag:"                 : @"\U0001F3F3", \
     @":wavy_dash:"                         : @"\U00003030", \
     @":waxing_crescent_moon:"              : @"\U0001F312", \
     @":waxing_gibbous_moon:"               : @"\U0001F314", \
     @":wc:"                                : @"\U0001F6BE", \
     @":weary:"                             : @"\U0001F629", \
     @":wedding:"                           : @"\U0001F492", \
+    @":weight_lifter:"                     : @"\U0001F3CB", \
+    @":weight_lifter_woman:"               : @"\U0001F3CB\U0000FE0F\U0000200D\U00002640", \
     @":wf:"                                : @"\U0001F1FC\U0001F1EB", \
-    @":whale:"                             : @"\U0001F433", \
     @":whale2:"                            : @"\U0001F40B", \
+    @":whale:"                             : @"\U0001F433", \
+    @":wheel_of_dharma:"                   : @"\U00002638", \
     @":wheelchair:"                        : @"\U0000267F", \
+    @":whisky:"                            : @"\U0001F943", \
     @":white_check_mark:"                  : @"\U00002705", \
     @":white_circle:"                      : @"\U000026AA", \
     @":white_flower:"                      : @"\U0001F4AE", \
+    @":white_frowning_face:"               : @"\U00002639", \
     @":white_large_square:"                : @"\U00002B1C", \
     @":white_medium_small_square:"         : @"\U000025FD", \
     @":white_medium_square:"               : @"\U000025FB", \
     @":white_small_square:"                : @"\U000025AB", \
     @":white_square_button:"               : @"\U0001F533", \
+    @":wilted_flower:"                     : @"\U0001F940", \
+    @":wind_blowing_face:"                 : @"\U0001F32C", \
     @":wind_chime:"                        : @"\U0001F390", \
     @":wine_glass:"                        : @"\U0001F377", \
     @":wink:"                              : @"\U0001F609", \
     @":wolf:"                              : @"\U0001F43A", \
+    @":woman-boy-boy:"                     : @"\U0001F469\U0000200D\U0001F466\U0000200D\U0001F466", \
+    @":woman-boy:"                         : @"\U0001F469\U0000200D\U0001F466", \
+    @":woman-girl-boy:"                    : @"\U0001F469\U0000200D\U0001F467\U0000200D\U0001F466", \
+    @":woman-girl-girl:"                   : @"\U0001F469\U0000200D\U0001F467\U0000200D\U0001F467", \
+    @":woman-girl:"                        : @"\U0001F469\U0000200D\U0001F467", \
+    @":woman-heart-woman:"                 : @"\U0001F469\U0000200D\U00002764\U0000FE0F\U0000200D\U0001F469", \
+    @":woman-kiss-woman:"                  : @"\U0001F469\U0000200D\U00002764\U0000FE0F\U0000200D\U0001F48B\U0000200D\U0001F469", \
+    @":woman-woman-boy-boy:"               : @"\U0001F469\U0000200D\U0001F469\U0000200D\U0001F466\U0000200D\U0001F466", \
+    @":woman-woman-boy:"                   : @"\U0001F469\U0000200D\U0001F469\U0000200D\U0001F466", \
+    @":woman-woman-girl-boy:"              : @"\U0001F469\U0000200D\U0001F469\U0000200D\U0001F467\U0000200D\U0001F466", \
+    @":woman-woman-girl-girl:"             : @"\U0001F469\U0000200D\U0001F469\U0000200D\U0001F467\U0000200D\U0001F467", \
+    @":woman-woman-girl:"                  : @"\U0001F469\U0000200D\U0001F469\U0000200D\U0001F467", \
     @":woman:"                             : @"\U0001F469", \
+    @":woman_bowing:"                      : @"\U0001F647\U0000200D\U00002640", \
+    @":woman_doing_cartwheel:"             : @"\U0001F938\U0000200D\U00002640", \
+    @":woman_juggling:"                    : @"\U0001F939\U0000200D\U00002640", \
+    @":woman_playing_handball:"            : @"\U0001F93E\U0000200D\U00002640", \
+    @":woman_playing_water_polo:"          : @"\U0001F93D\U0000200D\U00002640", \
+    @":woman_rowing_boat:"                 : @"\U0001F6A3\U0000200D\U00002640", \
+    @":woman_running:"                     : @"\U0001F3C3\U0000200D\U00002640", \
+    @":woman_with_ball:"                   : @"\U000026F9\U0000FE0F\U0000200D\U00002640", \
+    @":woman_with_blonde_hair:"            : @"\U0001F471\U0000200D\U00002640", \
+    @":woman_with_turban:"                 : @"\U0001F473\U0000200D\U00002640", \
     @":womans_clothes:"                    : @"\U0001F45A", \
     @":womans_hat:"                        : @"\U0001F452", \
+    @":women_wrestling:"                   : @"\U0001F93C\U0000200D\U00002640", \
     @":womens:"                            : @"\U0001F6BA", \
+    @":world_map:"                         : @"\U0001F5FA", \
     @":worried:"                           : @"\U0001F61F", \
     @":wrench:"                            : @"\U0001F527", \
+    @":writing_hand:"                      : @"\U0000270D", \
     @":ws:"                                : @"\U0001F1FC\U0001F1F8", \
     @":x:"                                 : @"\U0000274C", \
+    @":xk:"                                : @"\U0001F1FD\U0001F1F0", \
     @":ye:"                                : @"\U0001F1FE\U0001F1EA", \
     @":yellow_heart:"                      : @"\U0001F49B", \
     @":yen:"                               : @"\U0001F4B4", \
+    @":yin_yang:"                          : @"\U0000262F", \
     @":yt:"                                : @"\U0001F1FE\U0001F1F9", \
     @":yum:"                               : @"\U0001F60B", \
     @":za:"                                : @"\U0001F1FF\U0001F1E6", \
     @":zap:"                               : @"\U000026A1", \
+    @":zero:"                              : @"0\U0000FE0F\U000020E3", \
+    @":zipper_mouth_face:"                 : @"\U0001F910", \
     @":zm:"                                : @"\U0001F1FF\U0001F1F2", \
     @":zw:"                                : @"\U0001F1FF\U0001F1FC", \
     @":zzz:"                               : @"\U0001F4A4" \
