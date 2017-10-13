@@ -11,8 +11,9 @@
 
 @interface NSString (Emojize)
 
-- (NSString *)emojizedString;
 + (NSString *)emojizedStringWithString:(NSString *)text;
+- (NSString *)emojizedString;
 + (NSDictionary *)emojiAliases;
+- (BOOL)isFirstCharEmoji;
 
 @end
